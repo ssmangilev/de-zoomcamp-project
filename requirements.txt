@@ -24,7 +24,6 @@ kombu==5.2.4
 numpy
 pandas==1.5.2
 pandas-gbq==0.18.1
-proto-plus==1.22.2
 psutil
 psycopg2==2.9.5
 psycopg2-binary==2.9.5

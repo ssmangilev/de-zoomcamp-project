@@ -11,8 +11,3 @@ def test_cicd1():
 def test_cicd2():
     # This test is to ensure that the CICD pipeline is working
     assert True
-
-
-def test_cicd3():
-    # This test is to ensure that the CICD pipeline is working
-    assert True
