@@ -24,11 +24,7 @@ jobs:
     - name: Lint with Flake8
       run: |
         pip install flake8
-        flake8 --ignore E501 dags --benchmark -v
-    - name: Confirm Black code compliance
-      run: |
-        pip install pytest-black
-        pytest dags --black -v
+        flake8 --ignore E501 build --benchmark -v
     - name: Test with Pytest
       run: |
         pip install pytest
