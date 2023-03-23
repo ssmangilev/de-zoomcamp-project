@@ -11,7 +11,7 @@ apispec==3.3.2
 appdirs==1.4.4
 apprise==1.2.1
 argcomplete==2.0.0
-arrow
+arrow==1.2.1
 attrs==22.2.0
 cachelib==0.9.0
 cachetools==5.2.1
@@ -72,7 +72,6 @@ numpy
 pandas==1.5.2
 pandas-gbq==0.18.1
 proto-plus==1.22.2
-protobuf==4.21.11
 psutil
 psycopg2==2.9.5
 psycopg2-binary==2.9.5
