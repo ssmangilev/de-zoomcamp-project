@@ -17,6 +17,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 USER root
 SHELL ["/bin/bash", "-o", "pipefail", "-e", "-u", "-x", "-c"]
 
+USER root
+RUN chmod 777 $AIRFLOW_HOME
+
 ARG CLOUD_SDK_VERSION=414.0.0
 ENV GCLOUD_HOME=/home/google-cloud-sdk
 
