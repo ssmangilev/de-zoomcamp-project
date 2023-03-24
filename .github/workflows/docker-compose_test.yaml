@@ -13,6 +13,6 @@
         - name: Tests
           uses: cloudposse/github-action-docker-compose-test-run@main
           with:
-            file: build/docker-compose.yml
+            file: ./build/docker-compose.yml
             service: airflow-webserver
             command: curl--fail http://localhost:8080/health
