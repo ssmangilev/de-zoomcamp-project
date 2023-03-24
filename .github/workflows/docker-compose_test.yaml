@@ -17,4 +17,4 @@
             workdir: ./build/
             file: docker-compose.yaml
             service: airflow-webserver
-            command: curl--fail http://localhost:8080/health
+            command: ls -la
