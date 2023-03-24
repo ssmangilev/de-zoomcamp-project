@@ -15,6 +15,6 @@
           with:
             registry: docker.pkg.github.com
             workdir: ./build/
-            file: docker-compose.yml
+            file: Dockerfile
             service: airflow-webserver
             command: curl--fail http://localhost:8080/health
