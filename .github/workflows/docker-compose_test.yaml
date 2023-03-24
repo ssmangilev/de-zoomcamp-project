@@ -1,4 +1,4 @@
-  name: Push into Main
+  name: Change of docker-compose.yml
   on:
     push:
       branches: [ main ]
