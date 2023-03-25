@@ -79,9 +79,25 @@ def dwd_historical_data_v1():
         Writes data from a pandas.DataFrame to parquet file
         , saves it local and returns a local path
         """
-        df = pd.read_csv(src, encoding='latin-1')
-        save_path = f"{PATH_TO_LOCAL_HOME}/{filename}"
+        df = pd.read_csv(src, encoding='latin-1', sep=';')
+        columns = {
+            "Jan.": "January",
+            "Feb.": "February",
+            "März": "March",
+            "Apr.": "April",
+            "Mai": "May",
+            "Jun.": "June",
+            "Jul.": "July",
+            "Aug.": "August",
+            "Sept.": "September",
+            "Okt.": "October",
+            "Nov.": "November",
+            "Dez.": "December",
+            "Unnamed: 16": "Unnamed"
+        }
+        df = df.rename(columns=columns)
         table = Table.from_pandas(df)
+        save_path = f"{PATH_TO_LOCAL_HOME}/{filename}"
         parquet.write_table(table, save_path)
         return save_path
 

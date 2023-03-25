@@ -17,4 +17,4 @@
             workdir: ./build/
             file: docker-compose.yaml
             service: airflow-webserver
-            command: ls -la
+            command: echo 1
