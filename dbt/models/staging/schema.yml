@@ -1,0 +1,516 @@
+version: 2
+
+sources:
+    - name: staging
+      #For bigquery:
+      database: instant-pivot-375017
+
+      # For postgres:
+      # database: production
+
+      schema: historical_temperatures_dataset_germany
+
+      # loaded_at_field: record_loaded_at
+      tables:
+        - name: Eistage
+        - name: Frosttage
+        - name: Heissetage
+        - name: Niederschlag
+        - name: Sommertage
+        - name: Sonnenscheindauer
+        - name: Temperatur
+         # freshness:
+           # error_after: {count: 6, period: hour}
+
+models:
+    - name: Icedays
+      description: "Number of days of ice days. Definition of ice day - maximum air temperature < 0°C"
+      columns:
+          - name: id
+            description: "Primary key"
+            tests:
+              - unique:
+                severity: warn
+              - not_null:
+                  severity: warn
+          - name: stations_id
+            description: "The ID of the station which did the measures"
+            tests:
+                - not_null:
+          - name: period_of_time
+            description: "The period of years, in which the measures have been done"
+            tests:
+                - not_null:
+          - name: source
+            description: "The source of the data"
+            tests:
+               - not_null:
+          - name: January
+            description: "The data collecting for January"
+            tests:
+               - not_null:
+          - name: February
+            description: "The data collecting for February"
+            tests:
+               - not_null:
+          - name: March
+            description: "The data collecting for March"
+            tests:
+               - not_null:
+          - name: April
+            description: "The data collecting for April"
+            tests:
+               - not_null:
+          - name: May
+            description: "The data collecting for May"
+            tests:
+               - not_null:
+          - name: June
+            description: "The data collecting for June"
+            tests:
+               - not_null:
+          - name: July
+            description: "The data collecting for July"
+            tests:
+               - not_null:
+          - name: August
+            description: "The data collecting for August"
+            tests:
+               - not_null:
+          - name: September
+            description: "The data collecting for September"
+            tests:
+               - not_null:
+          - name: October
+            description: "The data collecting for October"
+            tests:
+               - not_null:
+          - name: November
+            description: "The data collecting for November"
+            tests:
+               - not_null:
+          - name: December
+            description: "The data collecting for December"
+            tests:
+               - not_null:
+    - name: Frostdays
+      description: "Number of frost days. Definition of frost day - minimum air temperature < 0°C."
+      columns:
+          - name: id
+            description: "Primary key"
+            tests:
+              - unique:
+                severity: warn
+              - not_null:
+                  severity: warn
+          - name: stations_id
+            description: "The ID of the station which did the measures"
+            tests:
+                - not_null:
+          - name: period_of_time
+            description: "The period of years, in which the measures have been done"
+            tests:
+                - not_null:
+          - name: source
+            description: "The source of the data"
+            tests:
+               - not_null:
+          - name: January
+            description: "The data collecting for January"
+            tests:
+               - not_null:
+          - name: February
+            description: "The data collecting for February"
+            tests:
+               - not_null:
+          - name: March
+            description: "The data collecting for March"
+            tests:
+               - not_null:
+          - name: April
+            description: "The data collecting for April"
+            tests:
+               - not_null:
+          - name: May
+            description: "The data collecting for May"
+            tests:
+               - not_null:
+          - name: June
+            description: "The data collecting for June"
+            tests:
+               - not_null:
+          - name: July
+            description: "The data collecting for July"
+            tests:
+               - not_null:
+          - name: August
+            description: "The data collecting for August"
+            tests:
+               - not_null:
+          - name: September
+            description: "The data collecting for September"
+            tests:
+               - not_null:
+          - name: October
+            description: "The data collecting for October"
+            tests:
+               - not_null:
+          - name: November
+            description: "The data collecting for November"
+            tests:
+               - not_null:
+          - name: December
+            description: "The data collecting for December"
+            tests:
+               - not_null:
+    - name: Hotdays
+      description: "Number of days of hot days. Definition of hot day - maximum air temperature >= 30°C"
+      columns:
+          - name: id
+            description: "Primary key"
+            tests:
+              - unique:
+                severity: warn
+              - not_null:
+                  severity: warn
+          - name: stations_id
+            description: "The ID of the station which did the measures"
+            tests:
+                - not_null:
+          - name: period_of_time
+            description: "The period of years, in which the measures have been done"
+            tests:
+                - not_null:
+          - name: source
+            description: "The source of the data"
+            tests:
+               - not_null:
+          - name: January
+            description: "The data collecting for January"
+            tests:
+               - not_null:
+          - name: February
+            description: "The data collecting for February"
+            tests:
+               - not_null:
+          - name: March
+            description: "The data collecting for March"
+            tests:
+               - not_null:
+          - name: April
+            description: "The data collecting for April"
+            tests:
+               - not_null:
+          - name: May
+            description: "The data collecting for May"
+            tests:
+               - not_null:
+          - name: June
+            description: "The data collecting for June"
+            tests:
+               - not_null:
+          - name: July
+            description: "The data collecting for July"
+            tests:
+               - not_null:
+          - name: August
+            description: "The data collecting for August"
+            tests:
+               - not_null:
+          - name: September
+            description: "The data collecting for September"
+            tests:
+               - not_null:
+          - name: October
+            description: "The data collecting for October"
+            tests:
+               - not_null:
+          - name: November
+            description: "The data collecting for November"
+            tests:
+               - not_null:
+          - name: December
+            description: "The data collecting for December"
+            tests:
+               - not_null:        
+    - name: Precipitation
+      description: "Multi-annual mean of precipitation in mm"
+      columns:
+          - name: id
+            description: "Primary key"
+            tests:
+              - unique:
+                severity: warn
+              - not_null:
+                  severity: warn
+          - name: stations_id
+            description: "The ID of the station which did the measures"
+            tests:
+                - not_null:
+          - name: period_of_time
+            description: "The period of years, in which the measures have been done"
+            tests:
+                - not_null:
+          - name: source
+            description: "The source of the data"
+            tests:
+               - not_null:
+          - name: January
+            description: "The data collecting for January"
+            tests:
+               - not_null:
+          - name: February
+            description: "The data collecting for February"
+            tests:
+               - not_null:
+          - name: March
+            description: "The data collecting for March"
+            tests:
+               - not_null:
+          - name: April
+            description: "The data collecting for April"
+            tests:
+               - not_null:
+          - name: May
+            description: "The data collecting for May"
+            tests:
+               - not_null:
+          - name: June
+            description: "The data collecting for June"
+            tests:
+               - not_null:
+          - name: July
+            description: "The data collecting for July"
+            tests:
+               - not_null:
+          - name: August
+            description: "The data collecting for August"
+            tests:
+               - not_null:
+          - name: September
+            description: "The data collecting for September"
+            tests:
+               - not_null:
+          - name: October
+            description: "The data collecting for October"
+            tests:
+               - not_null:
+          - name: November
+            description: "The data collecting for November"
+            tests:
+               - not_null:
+          - name: December
+            description: "The data collecting for December"
+            tests:
+               - not_null:
+    - name: Summerdays
+      description: "Number of summer days. Definition of summer day - maximum air temperature >= 25°C"
+      columns:
+          - name: id
+            description: "Primary key"
+            tests:
+              - unique:
+                severity: warn
+              - not_null:
+                  severity: warn
+          - name: stations_id
+            description: "The ID of the station which did the measures"
+            tests:
+                - not_null:
+          - name: period_of_time
+            description: "The period of years, in which the measures have been done"
+            tests:
+                - not_null:
+          - name: source
+            description: "The source of the data"
+            tests:
+               - not_null:
+          - name: January
+            description: "The data collecting for January"
+            tests:
+               - not_null:
+          - name: February
+            description: "The data collecting for February"
+            tests:
+               - not_null:
+          - name: March
+            description: "The data collecting for March"
+            tests:
+               - not_null:
+          - name: April
+            description: "The data collecting for April"
+            tests:
+               - not_null:
+          - name: May
+            description: "The data collecting for May"
+            tests:
+               - not_null:
+          - name: June
+            description: "The data collecting for June"
+            tests:
+               - not_null:
+          - name: July
+            description: "The data collecting for July"
+            tests:
+               - not_null:
+          - name: August
+            description: "The data collecting for August"
+            tests:
+               - not_null:
+          - name: September
+            description: "The data collecting for September"
+            tests:
+               - not_null:
+          - name: October
+            description: "The data collecting for October"
+            tests:
+               - not_null:
+          - name: November
+            description: "The data collecting for November"
+            tests:
+               - not_null:
+          - name: December
+            description: "The data collecting for December"
+            tests:
+               - not_null:
+    - name: Sunschineduration
+      description: "Multi-annual mean of sunshine duration in h"
+      columns:
+          - name: id
+            description: "Primary key"
+            tests:
+              - unique:
+                severity: warn
+              - not_null:
+                  severity: warn
+          - name: stations_id
+            description: "The ID of the station which did the measures"
+            tests:
+                - not_null:
+          - name: period_of_time
+            description: "The period of years, in which the measures have been done"
+            tests:
+                - not_null:
+          - name: source
+            description: "The source of the data"
+            tests:
+               - not_null:
+          - name: January
+            description: "The data collecting for January"
+            tests:
+               - not_null:
+          - name: February
+            description: "The data collecting for February"
+            tests:
+               - not_null:
+          - name: March
+            description: "The data collecting for March"
+            tests:
+               - not_null:
+          - name: April
+            description: "The data collecting for April"
+            tests:
+               - not_null:
+          - name: May
+            description: "The data collecting for May"
+            tests:
+               - not_null:
+          - name: June
+            description: "The data collecting for June"
+            tests:
+               - not_null:
+          - name: July
+            description: "The data collecting for July"
+            tests:
+               - not_null:
+          - name: August
+            description: "The data collecting for August"
+            tests:
+               - not_null:
+          - name: September
+            description: "The data collecting for September"
+            tests:
+               - not_null:
+          - name: October
+            description: "The data collecting for October"
+            tests:
+               - not_null:
+          - name: November
+            description: "The data collecting for November"
+            tests:
+               - not_null:
+          - name: December
+            description: "The data collecting for December"
+            tests:
+               - not_null:
+    - name: Temperature
+      description: "Temperature of air"
+      columns:
+          - name: id
+            description: "Primary key"
+            tests:
+              - unique:
+                severity: warn
+              - not_null:
+                  severity: warn
+          - name: stations_id
+            description: "The ID of the station which did the measures"
+            tests:
+                - not_null:
+          - name: period_of_time
+            description: "The period of years, in which the measures have been done"
+            tests:
+                - not_null:
+          - name: source
+            description: "The source of the data"
+            tests:
+               - not_null:
+          - name: January
+            description: "The data collecting for January"
+            tests:
+               - not_null:
+          - name: February
+            description: "The data collecting for February"
+            tests:
+               - not_null:
+          - name: March
+            description: "The data collecting for March"
+            tests:
+               - not_null:
+          - name: April
+            description: "The data collecting for April"
+            tests:
+               - not_null:
+          - name: May
+            description: "The data collecting for May"
+            tests:
+               - not_null:
+          - name: June
+            description: "The data collecting for June"
+            tests:
+               - not_null:
+          - name: July
+            description: "The data collecting for July"
+            tests:
+               - not_null:
+          - name: August
+            description: "The data collecting for August"
+            tests:
+               - not_null:
+          - name: September
+            description: "The data collecting for September"
+            tests:
+               - not_null:
+          - name: October
+            description: "The data collecting for October"
+            tests:
+               - not_null:
+          - name: November
+            description: "The data collecting for November"
+            tests:
+               - not_null:
+          - name: December
+            description: "The data collecting for December"
+            tests:
+               - not_null:
+    
