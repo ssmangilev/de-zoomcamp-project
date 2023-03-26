@@ -24,7 +24,8 @@ stations_unioned as (
     union all
     select * from stations_9120
 )
-select * from stg_summerdays
+select stg_summerdays.*, stations_unioned.Stationsname, stations_unioned.Breite,
+stations_unioned.Stationshoehe, stations_unioned.Bundesland from stg_summerdays
 inner join stations_unioned
 on stg_summerdays.stations_id = stations_unioned.Stations_id and
-    stg_summerdays.period_of_time = stations_unioned.period_of_time;
+    stg_summerdays.period_of_time = stations_unioned.period_of_time

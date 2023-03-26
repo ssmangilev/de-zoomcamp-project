@@ -24,7 +24,8 @@ stations_unioned as (
     union all
     select * from stations_9120
 )
-select * from stg_temperature
+select stg_temperature.*, stations_unioned.Stationsname, stations_unioned.Breite,
+stations_unioned.Stationshoehe, stations_unioned.Bundesland from stg_temperature
 inner join stations_unioned
 on stg_temperature.stations_id = stations_unioned.Stations_id and
-    stg_temperature.period_of_time = stations_unioned.period_of_time;
+    stg_temperature.period_of_time = stations_unioned.period_of_time

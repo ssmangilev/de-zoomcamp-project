@@ -24,7 +24,8 @@ stations_unioned as (
     union all
     select * from stations_9120
 )
-select * from stg_precipitation
+select stg_precipitation.*, stations_unioned.Stationsname, stations_unioned.Breite,
+stations_unioned.Stationshoehe, stations_unioned.Bundesland from stg_precipitation
 inner join stations_unioned
 on stg_precipitation.stations_id = stations_unioned.Stations_id and
-    stg_precipitation.period_of_time = stations_unioned.period_of_time;
+    stg_precipitation.period_of_time = stations_unioned.period_of_time
