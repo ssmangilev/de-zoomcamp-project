@@ -319,7 +319,7 @@ services:
       - "9093:9093"
     environment:
       - KRAFT_CONTAINER_HOST_NAME=kafka
-      - KRAFT_CREATE_TOPICS=temperature_topic
+      - KRAFT_CREATE_TOPICS=temperature_topic, pyspark_agregated_topic
       - KRAFT_PARTITIONS_PER_TOPIC=3
   kafka-ui:
     image: provectuslabs/kafka-ui:latest
