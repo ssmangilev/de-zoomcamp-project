@@ -1,4 +1,4 @@
-Stations_id,Stationsname,geogr. Breite,geogr. Laenge,Stationshoehe,Bundesland
+Stations_id,Stationsname, Breite,Laenge,Stationshoehe,Bundesland
 3,Aachen                                  ,   50.782659,    6.094087,202,Nordrhein-Westfalen                     
 44,Großenkneten                            ,   52.933597,    8.237038,         43.5,Niedersachsen                           
 73,Aldersbach-Kriestorf                    ,   48.615918,   13.050637,340,Bayern                                  

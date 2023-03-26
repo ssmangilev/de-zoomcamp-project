@@ -1,4 +1,4 @@
-Stations_id,Stationsname,geogr. Breite,geogr. Laenge,Stationshoehe,Bundesland
+Stations_id,Stationsname, Breite,Laenge,Stationshoehe,Bundesland
 755,Buchen,   49.518196,     9.32127,340,Baden-Württemberg                       
 1875,Gschwend,   48.935378,    9.736363,492,Baden-Württemberg                       
 2996,Liebenzell,   48.772592,    8.728709,352,Baden-Württemberg                       

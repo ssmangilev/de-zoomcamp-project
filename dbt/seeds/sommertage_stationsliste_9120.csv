@@ -1,4 +1,4 @@
-Stations_id,Stationsname,geogr. Breite,geogr. Laenge,Stationshoehe,Bundesland
+Stations_id,Stationsname, Breite,Laenge,Stationshoehe,Bundesland
 755,Buchen,   49.518196,     9.32127,340,Baden-Württemberg                       
 3257,Mergentheim,   49.477324,    9.762223,        250.5,Baden-Württemberg                       
 4094,Weingarten,   47.806248,    9.620579,        440.5,Baden-Württemberg                       
