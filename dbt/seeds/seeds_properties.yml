@@ -4,84 +4,84 @@ seeds:
   - name: eistage_stationsliste_6190
     description: >
       The List of stations for table "Eistage" in years 1961-1990
-  -name: eistage_stationsliste_7100
+  - name: eistage_stationsliste_7100
     description: >
       The List of stations for table "Eistage" in years 1971-2000
-  -name: eistage_stationsliste_8110
+  - name: eistage_stationsliste_8110
     description: >
       The List of stations for table "Eistage" in years 1981-2010
-  -name: eistage_stationsliste_9120
+  - name: eistage_stationsliste_9120
     description: >
       The List of stations for table "Eistage" in years 1991-2020
   - name: frosttage_stationsliste_6190
     description: >
       The List of stations for table "Frosttage" in years 1961-1990
-  -name: frosttage_stationsliste_7110
+  - name: frosttage_stationsliste_7110
     description: >
       The List of stations for table "Frosttage" in years 1971-2000
-  -name: frosttage_stationsliste_8110
+  - name: frosttage_stationsliste_8110
     description: >
       The List of stations for table "Frosttage" in years 1981-2010
-  -name: frosttage_stationsliste_9120
+  - name: frosttage_stationsliste_9120
     description: >
       The List of stations for table "Frosttage" in years 1991-2020
   - name: heissetage_stationsliste_6190
     description: >
       The List of stations for table "Heissetage" in years 1961-1990
-  -name: heissetage_stationsliste_7110
+  - name: heissetage_stationsliste_7100
     description: >
       The List of stations for table "Heissetage" in years 1971-2000
-  -name: heissetage_stationsliste_8110
+  - name: heissetage_stationsliste_8110
     description: >
       The List of stations for table "Heissetage" in years 1981-2010
-  -name: heissetage_stationsliste_9120
+  - name: heissetage_stationsliste_9120
     description: >
       The List of stations for table "Heissetage" in years 1991-2020
   - name: niederschlag_stationsliste_6190
     description: >
       The List of stations for table "Niederschlag" in years 1961-1990
-  -name: niederschlag_stationsliste_7110
+  - name: niederschlag_stationsliste_7100
     description: >
       The List of stations for table "Niederschlag" in years 1971-2000
-  -name: niederschlag_stationsliste_8110
+  - name: niederschlag_stationsliste_8110
     description: >
       The List of stations for table "Niederschlag" in years 1981-2010
-  -name: niederschlag_stationsliste_9120
+  - name: niederschlag_stationsliste_9120
     description: >
       The List of stations for table "Niederschlag" in years 1991-2020
   - name: sommertage_stationsliste_6190
     description: >
       The List of stations for table "Sommertage" in years 1961-1990
-  -name: sommertage_stationsliste_7110
+  - name: sommertage_stationsliste_7100
     description: >
       The List of stations for table "Sommertage" in years 1971-2000
-  -name: sommertage_stationsliste_8110
+  - name: sommertage_stationsliste_8110
     description: >
       The List of stations for table "Sommertage" in years 1981-2010
-  -name: sommertage_stationsliste_9120
+  - name: sommertage_stationsliste_9120
     description: >
       The List of stations for table "Sommertage" in years 1991-2020
   - name: sonnenscheindauer_stationsliste_6190
     description: >
       The List of stations for table "Sonnenscheindauer" in years 1961-1990
-  -name: sonnenscheindauer_stationsliste_7110
+  - name: sonnenscheindauer_stationsliste_7100
     description: >
       The List of stations for table "Sonnenscheindauer" in years 1971-2000
-  -name: sonnenscheindauer_stationsliste_8110
+  - name: sonnenscheindauer_stationsliste_8110
     description: >
       The List of stations for table "Sonnenscheindauer" in years 1981-2010
-  -name: sonnenscheindauer_stationsliste_9120
+  - name: sonnenscheindauer_stationsliste_9120
     description: >
       The List of stations for table "Sonnenscheindauer" in years 1991-2020
   - name: temperatur_stationsliste_6190
     description: >
       The List of stations for table "Temperatur" in years 1961-1990
-  -name: temperatur_stationsliste_7110
+  - name: temperatur_stationsliste_7100
     description: >
       The List of stations for table "Temperatur" in years 1971-2000
-  -name: Temperatur_stationsliste_8110
+  - name: temperatur_stationsliste_8110
     description: >
       The List of stations for table "Temperatur" in years 1981-2010
-  -name: temperatur_stationsliste_9120
+  - name: temperatur_stationsliste_9120
     description: >
       The List of stations for table "Temperatur" in years 1991-2020

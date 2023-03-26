@@ -1,413 +1,413 @@
-Stations_id;Stationsname;geogr. Breite;geogr. Laenge;Stationshoehe;Bundesland;
-          1;Aach                                    ;   47.841299;    8.849299;          478;Baden-Württemberg                       ;
-          3;Aachen                                  ;   50.782659;    6.094087;          202;Nordrhein-Westfalen                     ;
-         73;Aldersbach-Kriestorf                    ;   48.615918;   13.050637;          340;Bayern                                  ;
-         78;Alfhausen                               ;   52.485314;    7.912553;           65;Niedersachsen                           ;
-        132;Altglashütte                            ;   49.772498;   12.389068;          750;Bayern                                  ;
-        142;Altomünster-Maisbrunn                   ;   48.406036;   11.311694;        510.5;Bayern                                  ;
-        150;Alzey                                   ;     49.7273;    8.116356;          215;Rheinland-Pfalz                         ;
-        151;Amberg-Unterammersricht                 ;   49.469061;   11.854626;        381.5;Bayern                                  ;
-        164;Angermünde                              ;   53.031558;    13.99082;         53.9;Brandenburg                             ;
-        183;Arkona                                  ;   54.679109;   13.434416;           42;Mecklenburg-Vorpommern                  ;
-        186;Arnsberg                                ;   51.377293;    8.071289;        217.9;Nordrhein-Westfalen                     ;
-        198;Artern                                  ;   51.374418;   11.291962;        163.9;Thüringen                               ;
-        217;Attenkam                                ;   47.877428;   11.364282;          670;Bayern                                  ;
-        232;Augsburg                                ;   48.425292;   10.941681;        461.5;Bayern                                  ;
-        243;Aurich                                  ;   53.462052;    7.466971;            4;Niedersachsen                           ;
-        257;Baden-Baden-Geroldsau                   ;   48.726985;    8.245738;          240;Baden-Württemberg                       ;
-        259;Müllheim                                ;   47.806371;    7.638692;          275;Baden-Württemberg                       ;
-        282;Bamberg                                 ;   49.874252;   10.920558;          240;Bayern                                  ;
-        314;Kubschütz, Kr. Bautzen                  ;   51.160383;   14.504184;          234;Sachsen                                 ;
-        320;Heinersreuth-Vollhof                    ;   49.966617;   11.519843;        349.5;Bayern                                  ;
-        327;Bederkesa                               ;   53.623437;    8.832253;           27;Niedersachsen                           ;
-        330;Oberzent-Beerfelden                     ;   49.561729;    8.967329;          455;Hessen                                  ;
-        355;Bensheim                                ;   49.678889;    8.627617;          140;Hessen                                  ;
-        377;Bergzabern, Bad                         ;   49.107025;    7.996749;          210;Rheinland-Pfalz                         ;
-        379;Berka, Bad (Flugplatz)                  ;   50.907455;   11.266477;          304;Thüringen                               ;
-        400;Berlin-Buch                             ;   52.630956;   13.502135;           60;Berlin                                  ;
-        403;Berlin-Dahlem (FU)                      ;   52.453711;   13.301731;           51;Berlin                                  ;
-        427;Berlin Brandenburg                      ;   52.380702;   13.530576;         45.6;Brandenburg                             ;
-        430;Berlin-Tegel                            ;   52.564402;   13.308805;         35.5;Berlin                                  ;
-        433;Berlin-Tempelhof                        ;   52.467451;    13.40212;           48;Berlin                                  ;
-        435;Berlin-Zehlendorf                       ;   52.428902;   13.232686;           45;Berlin                                  ;
-        445;Bernburg/Saale (Nord)                   ;   51.821792;    11.71098;         84.5;Sachsen-Anhalt                          ;
-        450;Bernkastel-Kues                         ;     49.9186;      7.0664;          120;Rheinland-Pfalz                         ;
-        460;Berus                                   ;   49.264065;     6.68677;          363;Saarland                                ;
-        474;Warthausen-Birkenhard                   ;    48.12517;    9.763868;          599;Baden-Württemberg                       ;
-        480;Biedenkopf-Wallau                       ;    50.92751;    8.493681;          296;Hessen                                  ;
-        535;Blankenrath                             ;   50.037229;    7.307861;          417;Rheinland-Pfalz                         ;
-        591;Boizenburg                              ;   53.391093;    10.68781;           45;Mecklenburg-Vorpommern                  ;
-        596;Boltenhagen                             ;   54.002724;    11.19082;           15;Mecklenburg-Vorpommern                  ;
-        599;Bonn-Friesdorf                          ;   50.705468;     7.14673;           62;Nordrhein-Westfalen                     ;
-        619;Borkum-Süderstraße                      ;   53.578793;    6.670348;         11.6;Niedersachsen                           ;
-        648;Brande-Hörnerkirchen                    ;   53.855114;     9.71521;            9;Schleswig-Holstein                      ;
-        656;Braunlage                               ;   51.723383;   10.602109;        607.3;Niedersachsen                           ;
-        662;Braunschweig                            ;   52.291469;   10.446448;         81.4;Niedersachsen                           ;
-        691;Bremen                                  ;    53.04507;    8.798084;            4;Bremen                                  ;
-        701;Bremerhaven                             ;    53.53321;    8.576089;          6.5;Bremen                                  ;
-        717;Brilon                                  ;   51.387293;    8.573713;          443;Nordrhein-Westfalen                     ;
-        722;Brocken                                 ;   51.798615;    10.61828;       1134.7;Sachsen-Anhalt                          ;
-        727;Brombachtal-Kirch-Brombach              ;   49.734483;    8.955669;          290;Hessen                                  ;
-        736;Brücken                                 ;   49.630291;    7.114838;          390;Rheinland-Pfalz                         ;
-        755;Buchen, Kr. Neckar-Odenwald             ;   49.518196;     9.32127;          340;Baden-Württemberg                       ;
-        772;Bühlertal                               ;     48.6957;    8.174389;          190;Baden-Württemberg                       ;
-        807;Schlüsselfeld (Kläranlage)              ;    49.74499;   10.643423;          290;Bayern                                  ;
-        817;Burgwald-Bottendorf                     ;   51.030568;    8.814605;          293;Hessen                                  ;
-        851;Pemfling-Pitzling                       ;    49.25044;   12.604179;        391.5;Bayern                                  ;
-        853;Chemnitz                                ;   50.791286;   12.871977;        416.1;Sachsen                                 ;
-        863;Clausthal-Zellerfeld                    ;   51.790354;   10.347039;          585;Niedersachsen                           ;
-        867;Lautertal-Oberlauter                    ;   50.306639;   10.967938;        343.8;Bayern                                  ;
-        880;Cottbus                                 ;   51.775922;   14.316796;           69;Brandenburg                             ;
-        881;Crailsheim-Alexandersreut               ;   49.098476;   10.097896;          423;Baden-Württemberg                       ;
-        891;Cuxhaven                                ;   53.871254;    8.705821;            5;Niedersachsen                           ;
-        920;Darmstadt (US-Air-Base)                 ;   49.856368;    8.592921;        107.5;Hessen                                  ;
-        953;Deuselbach                              ;   49.761875;    7.054249;        480.5;Rheinland-Pfalz                         ;
-        963;Diepholz                                ;   52.588112;    8.342405;         37.7;Niedersachsen                           ;
-        979;Dillenburg                              ;   50.736371;    8.267238;          314;Hessen                                  ;
-        982;Dillingen/Donau                         ;   48.570123;   10.498459;          420;Bayern                                  ;
-        998;Dobel                                   ;   48.796789;    8.492143;          696;Baden-Württemberg                       ;
-       1001;Doberlug-Kirchhain                      ;   51.645071;   13.574714;         96.8;Brandenburg                             ;
-       1018;Donaueschingen                          ;   47.942187;    8.504647;          677;Baden-Württemberg                       ;
-       1032;Dortmund                                ;   51.511976;    7.534469;          120;Nordrhein-Westfalen                     ;
-       1048;Dresden-Klotzsche                       ;   51.127797;   13.754251;        227.6;Sachsen                                 ;
-       1050;Dresden-Hosterwitz                      ;   51.022068;   13.847006;          112;Sachsen                                 ;
-       1053;Driburg, Bad                            ;   51.733655;    9.044538;          192;Nordrhein-Westfalen                     ;
-       1072;Dürkheim, Bad                           ;   49.471913;    8.192896;          107;Rheinland-Pfalz                         ;
-       1076;Dürrheim, Bad                           ;   48.013478;    8.534342;          692;Baden-Württemberg                       ;
-       1079;Düsseldorf-Südfriedhof                  ;   51.199811;    6.757388;           37;Nordrhein-Westfalen                     ;
-       1087;Duisburg-Laar                           ;   51.463381;    6.732091;           21;Nordrhein-Westfalen                     ;
-       1093;Eberbach                                ;   49.459307;    8.959463;          131;Baden-Württemberg                       ;
-       1107;Ebrach                                  ;   49.851954;   10.499124;        345.5;Bayern                                  ;
-       1161;Eichstätt-Landershofen                  ;   48.877749;    11.23488;          384;Bayern                                  ;
-       1172;Einbeck                                 ;   51.818948;    9.887109;          123;Niedersachsen                           ;
-       1197;Ellwangen-Rindelbach                    ;   48.989498;   10.131234;          460;Baden-Württemberg                       ;
-       1201;Elsdorf/Erftkreis                       ;   50.928142;    6.564617;           85;Nordrhein-Westfalen                     ;
-       1207;Elster, Bad-Sohl                        ;    50.27046;   12.274171;        557.5;Sachsen                                 ;
-       1229;Ems, Bad                                ;   50.332412;     7.69745;           90;Rheinland-Pfalz                         ;
-       1238;Engelskirchen                           ;   50.988436;    7.424988;          144;Nordrhein-Westfalen                     ;
-       1254;Eppingen                                ;   49.130652;     8.91648;          210;Baden-Württemberg                       ;
-       1266;Erfde                                   ;   54.299212;    9.316185;           18;Schleswig-Holstein                      ;
-       1270;Erfurt-Weimar                           ;   50.982887;   10.960753;          316;Thüringen                               ;
-       1279;Möhrendorf-Kleinseebach                 ;   49.649749;   11.007464;        267.5;Bayern                                  ;
-       1297;Eschwege                                ;   51.204132;   10.013767;          156;Hessen                                  ;
-       1300;Eslohe                                  ;    51.25399;     8.15653;          351;Nordrhein-Westfalen                     ;
-       1303;Essen-Bredeney                          ;   51.404085;    6.967741;          150;Nordrhein-Westfalen                     ;
-       1327;Weilerswist-Lommersum                   ;   50.711886;    6.790489;          147;Nordrhein-Westfalen                     ;
-       1329;Eutin                                   ;   54.133987;   10.586466;           50;Schleswig-Holstein                      ;
-       1346;Feldberg/Schwarzwald                    ;   47.874893;    8.003817;       1489.6;Baden-Württemberg                       ;
-       1357;Fichtelberg/Oberfranken-Hüttstadl       ;   49.980702;   11.837601;        654.5;Bayern                                  ;
-       1358;Fichtelberg                             ;   50.428295;   12.953583;         1213;Sachsen                                 ;
-       1410;Frankenhausen/Kyffhäuser, Bad           ;   51.351209;   11.095832;          130;Thüringen                               ;
-       1411;Birx/Rhön                               ;    50.53092;   10.047947;          747;Thüringen                               ;
-       1420;Frankfurt/Main                          ;   50.025911;    8.521294;         99.7;Hessen                                  ;
-       1441;Freiberg                                ;   50.926306;   13.271085;          416;Sachsen                                 ;
-       1443;Freiburg                                ;   48.023242;    7.834292;        236.5;Baden-Württemberg                       ;
-       1468;Freudenstadt                            ;   48.453828;    8.408952;        796.5;Baden-Württemberg                       ;
-       1492;Malsburg-Marzell-Friedrichsheim         ;   47.781903;    7.734756;          852;Baden-Württemberg                       ;
-       1503;Friesoythe-Altenoythe                   ;   53.064301;    7.901969;          5.7;Niedersachsen                           ;
-       1526;Fulda-Horas                             ;   50.566786;    9.653221;          242;Hessen                                  ;
-       1544;Gardelegen                              ;   52.512889;   11.394174;           47;Sachsen-Anhalt                          ;
-       1550;Garmisch-Partenkirchen                  ;   47.482989;   11.062126;        719.3;Bayern                                  ;
-       1580;Geisenheim                              ;   49.985894;    7.954826;        110.2;Hessen                                  ;
-       1590;Geldern-Walbeck                         ;   51.494168;    6.246343;           37;Nordrhein-Westfalen                     ;
-       1605;Genthin                                 ;   52.387511;   12.160174;           35;Sachsen-Anhalt                          ;
-       1612;Gera-Leumnitz                           ;   50.881208;   12.128885;          311;Thüringen                               ;
-       1619;Gernsheim                               ;   49.762199;    8.488697;           90;Hessen                                  ;
-       1639;Gießen/Wettenberg                       ;   50.601715;    8.643898;        203.2;Hessen                                  ;
-       1645;Gilserberg-Moischeid                    ;   50.965565;    9.050014;          340;Hessen                                  ;
-       1667;Glückstadt                              ;    53.79702;    9.429456;            1;Schleswig-Holstein                      ;
-       1684;Görlitz                                 ;   51.162129;   14.950606;        238.5;Sachsen                                 ;
-       1689;Gößweinstein                            ;   49.765641;   11.306236;          441;Bayern                                  ;
-       1691;Göttingen                               ;   51.500248;    9.950659;        167.4;Niedersachsen                           ;
-       1694;Goldberg                                ;   53.605834;   12.103404;           58;Mecklenburg-Vorpommern                  ;
-       1735;Grainet-Rehberg                         ;    48.78935;   13.629026;          628;Bayern                                  ;
-       1748;Grebenhain-Herchenhain                  ;   50.478799;    9.262017;          608;Hessen                                  ;
-       1762;Greiz-Dölau                             ;   50.624899;   12.177683;          270;Thüringen                               ;
-       1873;Grund, Bad                              ;   51.795553;   10.237956;          300;Niedersachsen                           ;
-       1875;Gschwend, Kr. Ostalb                    ;   48.935378;    9.736363;          492;Baden-Württemberg                       ;
-       1891;Rheda-Wiedenbrück-Lintel                ;   51.877017;    8.357671;         72.5;Nordrhein-Westfalen                     ;
-       1929;Hahnenklee                              ;   51.859746;    10.33684;          567;Niedersachsen                           ;
-       1957;Halle-Kröllwitz                         ;   51.513769;   11.949933;           93;Sachsen-Anhalt                          ;
-       1964;Olsdorf                                 ;   49.944479;     6.38211;          328;Rheinland-Pfalz                         ;
-       1975;Hamburg-Fuhlsbüttel                     ;   53.633172;    9.988102;         10.7;Hamburg                                 ;
-       1981;Hamburg-Neuwiedenthal                   ;   53.477658;    9.895686;            3;Hamburg                                 ;
-       1987;Hamburg-Sankt Pauli                     ;   53.546681;    9.966227;         47.2;Hamburg                                 ;
-       1990;Hamburg-Wandsbek                        ;   53.585347;   10.129348;           18;Hamburg                                 ;
-       1993;Hameln                                  ;   52.084784;    9.389576;           68;Niedersachsen                           ;
-       2005;Hankensbüttel                           ;   52.719949;   10.598687;          108;Niedersachsen                           ;
-       2014;Hannover                                ;   52.464428;    9.677906;         55.2;Niedersachsen                           ;
-       2039;Harzburg, Bad                           ;   51.900249;   10.569851;          201;Niedersachsen                           ;
-       2044;Harzgerode                              ;   51.651967;   11.136645;          404;Sachsen-Anhalt                          ;
-       2074;Hechingen                               ;   48.375242;    8.980031;        517.5;Baden-Württemberg                       ;
-       2078;Weddingstedt                            ;    54.21807;    9.085307;           10;Schleswig-Holstein                      ;
-       2080;Heidelberg                              ;   49.420618;    8.667613;          110;Baden-Württemberg                       ;
-       2088;Heidenheim/Brenz                        ;   48.684941;   10.141978;          522;Baden-Württemberg                       ;
-       2092;Heidenrod-Mappershain                   ;   50.169131;    7.994907;          496;Hessen                                  ;
-       2095;Heilbronn                               ;   49.144752;    9.233334;          167;Baden-Württemberg                       ;
-       2110;Heinsberg-Schleiden                     ;   51.041072;    6.104239;           57;Nordrhein-Westfalen                     ;
-       2115;Helgoland                               ;   54.174971;    7.891995;          4.4;Schleswig-Holstein                      ;
-       2120;Helmstedt                               ;   52.216409;    11.02193;          140;Niedersachsen                           ;
-       2122;Helse, Kr. Dithmarschen                 ;   53.970098;    9.009522;            2;Schleswig-Holstein                      ;
-       2147;Herford                                 ;   52.126408;     8.68649;           77;Nordrhein-Westfalen                     ;
-       2151;Herleshausen                            ;   51.004843;   10.170476;          215;Hessen                                  ;
-       2158;Herrenalb, Bad                          ;   48.804189;    8.443019;          350;Baden-Württemberg                       ;
-       2167;Niederwörresbach                        ;   49.767176;    7.335605;          302;Rheinland-Pfalz                         ;
-       2171;Hersfeld, Bad                           ;   50.851957;    9.737694;        272.2;Hessen                                  ;
-       2201;Hiddensee-Vitte                         ;   54.574971;   13.104427;            1;Mecklenburg-Vorpommern                  ;
-       2206;Hildesheim                              ;   52.140812;    9.883806;          117;Niedersachsen                           ;
-       2211;Hilgenroth                              ;   50.737016;    7.652531;          295;Rheinland-Pfalz                         ;
-       2228;Hinterzarten                            ;    47.89829;    8.105503;          883;Baden-Württemberg                       ;
-       2244;Höchenschwand                           ;   47.732709;    8.162696;         1008;Baden-Württemberg                       ;
-       2250;Höllenstein (Kraftwerk)                 ;   49.127875;   12.864512;          403;Bayern                                  ;
-       2260;Hof (Stadt)                             ;   50.323032;   11.907729;          474;Bayern                                  ;
-       2261;Hof                                     ;   50.312257;   11.876039;        565.2;Bayern                                  ;
-       2264;Hofgeismar-Beberbeck                    ;   51.533979;    9.478874;          242;Hessen                                  ;
-       2268;Hofheim                                 ;   50.135089;   10.515559;          265;Bayern                                  ;
-       2290;Hohenpeißenberg                         ;   47.800869;   11.010819;        977.2;Bayern                                  ;
-       2323;Bevern, Kr. Holzminden                  ;    51.85294;    9.495274;          110;Niedersachsen                           ;
-       2327;Homberg/Ohm                             ;   50.731569;    9.003154;          250;Hessen                                  ;
-       2349;Hornisgrinde                            ;   48.613637;    8.203343;       1138.1;Baden-Württemberg                       ;
-       2423;Isny                                    ;   47.689421;   10.041633;          712;Baden-Württemberg                       ;
-       2444;Jena (Sternwarte)                       ;   50.925141;   11.582984;          155;Thüringen                               ;
-       2456;Jever                                   ;     53.5322;      7.8806;            7;Niedersachsen                           ;
-       2464;Jork                                    ;   53.531551;    9.675221;            1;Niedersachsen                           ;
-       2480;Kahl/Main                               ;   50.064347;    8.992973;        107.5;Bayern                                  ;
-       2483;Kahler Asten                            ;   51.180254;    8.489068;          839;Nordrhein-Westfalen                     ;
-       2486;Kaiserslautern                          ;   49.426213;    7.755714;          271;Rheinland-Pfalz                         ;
-       2488;Kaisheim-Neuhof                         ;   48.770102;   10.787615;          516;Bayern                                  ;
-       2497;Kall-Sistig                             ;    50.50141;    6.526408;          505;Nordrhein-Westfalen                     ;
-       2503;Kaltennordheim                          ;   50.626586;   10.145485;          487;Thüringen                               ;
-       2521;Karlshuld                               ;   48.676515;   11.296144;          374;Bayern                                  ;
-       2522;Karlsruhe                               ;   49.038161;     8.36406;        111.6;Baden-Württemberg                       ;
-       2532;Kassel                                  ;   51.296303;    9.442424;          231;Hessen                                  ;
-       2559;Kempten                                 ;   47.723263;   10.334786;        705.2;Bayern                                  ;
-       2565;Kiel-Kronshagen                         ;   54.337761;   10.092943;           17;Schleswig-Holstein                      ;
-       2578;Kirchdorf/Poel                          ;   53.999513;   11.434142;           14;Mecklenburg-Vorpommern                  ;
-       2597;Kissingen, Bad                          ;   50.223991;   10.079245;        281.8;Bayern                                  ;
-       2601;Kleiner Feldberg/Taunus                 ;   50.221797;    8.446883;        822.1;Hessen                                  ;
-       2618;Kleiner Inselsberg                      ;   50.845847;   10.480262;          732;Thüringen                               ;
-       2629;Kleve                                   ;   51.761242;    6.095381;           46;Nordrhein-Westfalen                     ;
-       2638;Klippeneck                              ;   48.105397;    8.754788;        973.5;Baden-Württemberg                       ;
-       2657;Koblenz-Horchheim                       ;   50.336911;    7.599165;           85;Rheinland-Pfalz                         ;
-       2667;Köln-Bonn                               ;   50.864559;    7.157488;           92;Nordrhein-Westfalen                     ;
-       2677;Königsfeld/Schwarzwald                  ;   48.141264;    8.428456;          730;Baden-Württemberg                       ;
-       2680;Königshofen, Bad                        ;   50.284014;   10.445599;        288.5;Bayern                                  ;
-       2693;Königstein/Taunus                       ;    50.18553;    8.469837;          380;Hessen                                  ;
-       2700;Kösching                                ;   48.830189;   11.487243;          416;Bayern                                  ;
-       2750;Kronach                                 ;   50.252352;   11.320925;          310;Bayern                                  ;
-       2761;Krumbach-Edenhausen                     ;   48.250959;   10.416274;          520;Bayern                                  ;
-       2812;Lahr                                    ;   48.364742;    7.827986;        155.7;Baden-Württemberg                       ;
-       2814;Merklingen                              ;   48.512173;    9.764396;          687;Baden-Württemberg                       ;
-       2861;Langeoog                                ;    53.74452;    7.477468;            5;Niedersachsen                           ;
-       2878;Lauchstädt, Bad                         ;    51.39092;   11.878575;        117.4;Sachsen-Anhalt                          ;
-       2879;Lauda-Königshofen-Gerlachsheim          ;   49.578104;     9.71416;          199;Baden-Württemberg                       ;
-       2925;Leinefelde                              ;   51.393197;   10.312349;        355.9;Thüringen                               ;
-       2928;Leipzig-Holzhausen                      ;    51.31509;   12.446226;          138;Sachsen                                 ;
-       2947;Lennestadt-Theten                       ;   51.133253;    8.034831;          286;Nordrhein-Westfalen                     ;
-       2949;Lenningen-Schopfloch                    ;   48.539622;    9.527497;          758;Baden-Württemberg                       ;
-       2950;Lensahn                                 ;   54.218979;   10.884417;           14;Schleswig-Holstein                      ;
-       2953;Lenzkirch-Ruhbühl                       ;   47.859705;    8.230755;          854;Baden-Württemberg                       ;
-       2968;Köln-Stammheim                          ;   50.989428;    6.977688;           43;Nordrhein-Westfalen                     ;
-       3001;Liliental                               ;    48.06737;    7.676963;          284;Baden-Württemberg                       ;
-       3004;Limburg/Lahn-Offheim                    ;   50.411603;    8.060496;          185;Hessen                                  ;
-       3015;Lindenberg                              ;   52.208489;   14.118032;           98;Brandenburg                             ;
-       3023;Lingen                                  ;   52.518093;    7.308057;           22;Niedersachsen                           ;
-       3028;Lippspringe, Bad                        ;   51.785416;    8.838795;          157;Nordrhein-Westfalen                     ;
-       3032;List auf Sylt                           ;   55.010989;    8.412531;         24.7;Schleswig-Holstein                      ;
-       3044;Löningen                                ;   52.719795;     7.74721;           22;Niedersachsen                           ;
-       3056;Lohr/Main-Steinbach                     ;   50.010254;    9.609971;          161;Bayern                                  ;
-       3062;Lorch/Rhein                             ;   50.035246;    7.819733;          100;Hessen                                  ;
-       3093;Lüchow                                  ;   52.972379;   11.137371;         16.2;Niedersachsen                           ;
-       3096;Lüdenscheid (Zeppelin-Gymnasium)        ;   51.213111;    7.635855;          444;Nordrhein-Westfalen                     ;
-       3101;Lüdinghausen                            ;   51.769446;    7.412787;           58;Nordrhein-Westfalen                     ;
-       3103;Lüneburg                                ;   53.265685;   10.424006;           11;Niedersachsen                           ;
-       3126;Magdeburg                               ;   52.102896;   11.582674;           79;Sachsen-Anhalt                          ;
-       3137;Mainz-Lerchenberg (ZDF)                 ;   49.965563;    8.213884;          195;Rheinland-Pfalz                         ;
-       3147;Mallersdorf-Pfaffenberg-Oberlindhart    ;   48.754812;   12.211827;          390;Bayern                                  ;
-       3155;Manderscheid-Sonnenhof                  ;   50.101542;    6.800909;          413;Rheinland-Pfalz                         ;
-       3164;Cölbe, Kr. Marburg-Biedenkopf           ;   50.849234;    8.774517;          187;Hessen                                  ;
-       3166;Marienberg                              ;   50.651055;   13.146876;          639;Sachsen                                 ;
-       3167;Marienberg, Bad                         ;   50.662061;    7.960264;        546.7;Rheinland-Pfalz                         ;
-       3196;Marnitz                                 ;    53.32222;   11.932143;           81;Mecklenburg-Vorpommern                  ;
-       3212;Mayen                                   ;   50.324912;    7.230019;          230;Rheinland-Pfalz                         ;
-       3234;Garsebach bei Meißen                    ;   51.129431;   13.432783;          158;Sachsen                                 ;
-       3244;Memmingen                               ;   47.982065;    10.13838;          614;Bayern                                  ;
-       3253;Sankt Blasien-Menzenschwand             ;    47.83087;    8.069848;          882;Baden-Württemberg                       ;
-       3257;Mergentheim, Bad-Neunkirchen            ;   49.477324;    9.762223;        250.5;Baden-Württemberg                       ;
-       3271;Metten                                  ;    48.85476;   12.918911;          314;Bayern                                  ;
-       3307;Mittenwald-Buckelwiesen                 ;   47.477866;   11.265311;        983.5;Bayern                                  ;
-       3366;Mühldorf                                ;   48.278982;   12.502407;        405.6;Bayern                                  ;
-       3376;Müncheberg                              ;   52.517588;   14.123226;           63;Brandenburg                             ;
-       3379;München-Stadt                           ;   48.163202;   11.542893;        515.4;Bayern                                  ;
-       3385;München-Nymphenburg                     ;   48.165975;   11.501122;          515;Bayern                                  ;
-       3390;München-Riem                            ;    48.13688;   11.709393;          529;Bayern                                  ;
-       3402;Münsingen-Apfelstetten                  ;   48.385084;    9.483739;        754.5;Baden-Württemberg                       ;
-       3404;Münster                                 ;   51.949426;    7.590559;           62;Nordrhein-Westfalen                     ;
-       3425;Murrhardt                               ;    48.97288;    9.571159;          344;Baden-Württemberg                       ;
-       3432;Nagold                                  ;   48.567499;    8.717902;          380;Baden-Württemberg                       ;
-       3442;Nauheim, Bad                            ;   50.357418;    8.750564;        148.5;Hessen                                  ;
-       3486;Neudenau                                ;   49.293135;    9.272227;          212;Baden-Württemberg                       ;
-       3490;Neuenahr, Bad-Ahrweiler                 ;   50.534561;    7.085337;          111;Rheinland-Pfalz                         ;
-       3527;Neukirchen-Hauptschwenda                ;    50.89228;     9.40498;          500;Hessen                                  ;
-       3537;Neumünster                              ;   54.087289;    9.979065;           26;Schleswig-Holstein                      ;
-       3541;Neunkirchen-Seelscheid-Meisenbach       ;   50.895646;    7.308106;          185;Nordrhein-Westfalen                     ;
-       3552;Neuruppin                               ;   52.903704;   12.807205;           38;Brandenburg                             ;
-       3565;Neustadt/Aisch                          ;   49.572809;   10.600131;          315;Bayern                                  ;
-       3590;Nidderau-Windecken                      ;   50.233526;    8.892274;          180;Hessen                                  ;
-       3612;Nienburg                                ;   52.671083;     9.22291;           25;Niedersachsen                           ;
-       3621;Reimlingen                              ;   48.825254;   10.506667;          435;Bayern                                  ;
-       3631;Norderney                               ;   53.712304;    7.151923;         11.5;Niedersachsen                           ;
-       3640;Nordhorn-Blanke                         ;   52.412368;    7.063994;           24;Niedersachsen                           ;
-       3659;Nürburg                                 ;    50.33911;    6.950061;          627;Rheinland-Pfalz                         ;
-       3668;Nürnberg                                ;   49.503031;   11.054923;          314;Bayern                                  ;
-       3671;Nürtingen                               ;   48.632111;    9.326125;          280;Baden-Württemberg                       ;
-       3679;Kiefersfelden-Gach                      ;   47.618701;   12.166532;          518;Bayern                                  ;
-       3730;Oberstdorf                              ;   47.398429;   10.275881;        805.8;Bayern                                  ;
-       3739;Oberviechtach                           ;   49.452096;   12.436546;          596;Bayern                                  ;
-       3753;Ochtrup                                 ;   52.204196;    7.178421;           56;Nordrhein-Westfalen                     ;
-       3761;Öhringen                                ;   49.207016;    9.517582;        275.9;Baden-Württemberg                       ;
-       3776;Offenbach/M. (Stadt)                    ;   50.094641;    8.754596;          110;Hessen                                  ;
-       3777;Offenburg                               ;   48.459326;    7.925526;          153;Baden-Württemberg                       ;
-       3790;Oldenburg (A)                           ;   53.101795;     8.25155;            5;Niedersachsen                           ;
-       3815;Osnabrück                               ;   52.255342;    8.053353;         95.4;Niedersachsen                           ;
-       3856;Oy-Mittelberg                           ;   47.638329;   10.431279;         1010;Bayern                                  ;
-       3875;Parsberg/Oberpfalz-Eglwang              ;    49.15102;   11.689638;          549;Bayern                                  ;
-       3879;Passau-Oberhaus                         ;   48.577943;   13.469437;          409;Bayern                                  ;
-       3904;Perl-Nennig                             ;   49.535353;    6.378874;          152;Saarland                                ;
-       3924;Pforzheim-Eutingen                      ;   48.905877;    8.741206;          246;Baden-Württemberg                       ;
-       3927;Pfullendorf                             ;   47.934471;     9.28693;        629.5;Baden-Württemberg                       ;
-       3939;Pirmasens                               ;   49.191191;      7.5879;          385;Rheinland-Pfalz                         ;
-       3946;Plauen                                  ;   50.481832;   12.130043;        387.1;Sachsen                                 ;
-       3955;Plön (See)                              ;   54.158983;   10.401996;           24;Schleswig-Holstein                      ;
-       3974;Pommelsbrunn                            ;   49.505822;     11.5142;          368;Bayern                                  ;
-       3987;Potsdam                                 ;   52.381247;    13.06223;           81;Brandenburg                             ;
-       3988;Potsdam (Säkularstation)                ;   52.382206;   13.062213;           81;Brandenburg                             ;
-       4024;Putbus                                  ;   54.364277;   13.477079;         39.5;Mecklenburg-Vorpommern                  ;
-       4032;Quedlinburg                             ;   51.795344;   11.131995;          142;Sachsen-Anhalt                          ;
-       4053;Radolfzell-Markelfingen                 ;    47.74575;    9.000658;          407;Baden-Württemberg                       ;
-       4063;Rahden-Kleinendorf                      ;   52.446122;    8.590574;         40.5;Nordrhein-Westfalen                     ;
-       4091;Rauschberg bei Ruhpolding               ;   47.732733;   12.682663;         1640;Bayern                                  ;
-       4094;Weingarten, Kr. Ravensburg              ;   47.806248;    9.620579;        440.5;Baden-Württemberg                       ;
-       4104;Regensburg                              ;   49.042482;   12.101943;        365.4;Bayern                                  ;
-       4125;Reichenhall, Bad                        ;   47.723835;   12.874037;          470;Bayern                                  ;
-       4169;Rheinau-Memprechtshofen                 ;   48.670276;    7.993861;        130.5;Baden-Württemberg                       ;
-       4175;Rheinfelden                             ;   47.558973;    7.772149;        282.5;Baden-Württemberg                       ;
-       4222;Rodewisch                               ;   50.526312;   12.409051;          464;Sachsen                                 ;
-       4240;Roetgen                                 ;   50.640675;    6.205771;          440;Nordrhein-Westfalen                     ;
-       4261;Rosenheim                               ;   47.875339;   12.127976;          442;Bayern                                  ;
-       4271;Rostock-Warnemünde                      ;   54.180279;   12.080806;            4;Mecklenburg-Vorpommern                  ;
-       4275;Rotenburg (Wümme)                       ;   53.128845;    9.339751;           32;Niedersachsen                           ;
-       4278;Roth bei Nürnberg                       ;   49.251149;   11.093364;          340;Bayern                                  ;
-       4287;Rothenburg ob der Tauber                ;   49.384842;   10.173229;          415;Bayern                                  ;
-       4293;Rottach-Egern                           ;   47.681932;   11.771391;          747;Bayern                                  ;
-       4301;Kreuznach, Bad                          ;   49.850173;    7.871018;          102;Rheinland-Pfalz                         ;
-       4336;Saarbrücken-Ensheim                     ;   49.212803;    7.107712;          320;Saarland                                ;
-       4339;Saarbrücken-Sankt Johann                ;   49.223137;    7.016753;          193;Saarland                                ;
-       4347;Sachsa, Bad                             ;   51.590937;   10.569098;          292;Niedersachsen                           ;
-       4350;Säckingen, Bad (Bergseestr.)            ;   47.561928;    7.939928;          339;Baden-Württemberg                       ;
-       4364;Salzgitter-Ringelheim                   ;   52.035526;   10.305442;          138;Niedersachsen                           ;
-       4371;Salzuflen, Bad                          ;   52.104207;    8.752053;        134.6;Nordrhein-Westfalen                     ;
-       4377;Sandberg                                ;   50.351779;   10.003374;        517.5;Bayern                                  ;
-       4386;Sankt Blasien                           ;   47.761006;    8.124701;          795;Baden-Württemberg                       ;
-       4390;Sankt Märgen                            ;   48.009078;    8.096604;          896;Baden-Württemberg                       ;
-       4393;Sankt Peter-Ording                      ;   54.327907;    8.603056;          4.9;Schleswig-Holstein                      ;
-       4419;Schallstadt-Mengen                      ;    47.95565;    7.713307;          212;Baden-Württemberg                       ;
-       4466;Schleswig                               ;   54.527539;    9.548666;         42.7;Schleswig-Holstein                      ;
-       4477;Schluchsee                              ;     47.8208;    8.185992;          993;Baden-Württemberg                       ;
-       4490;Schmelz-Hüttersdorf                     ;   49.414918;    6.836007;          223;Saarland                                ;
-       4508;Schneifelforsthaus                      ;   50.296848;    6.419387;          649;Rheinland-Pfalz                         ;
-       4517;Schömberg, Kr. Calw                     ;   48.785891;    8.645121;          635;Baden-Württemberg                       ;
-       4557;Schopfheim-Eichen                       ;   47.646351;    7.843961;          399;Baden-Württemberg                       ;
-       4560;Schotten                                ;   50.492508;    9.122558;          265;Hessen                                  ;
-       4581;Schwäbisch Gmünd-Strassdorf             ;   48.776796;    9.802456;          415;Baden-Württemberg                       ;
-       4592;Schwandorf                              ;   49.327835;   12.087053;          356;Bayern                                  ;
-       4597;Schwangau-Horn                          ;   47.576937;    10.71814;          792;Bayern                                  ;
-       4605;Schwarzburg                             ;    50.64406;   11.193618;          277;Thüringen                               ;
-       4621;Schweinfurt-Gartenstadt                 ;   50.057452;   10.215981;          240;Bayern                                  ;
-       4625;Schwerin                                ;   53.642425;   11.387095;           59;Mecklenburg-Vorpommern                  ;
-       4651;Seesen                                  ;   51.903973;   10.188523;          186;Niedersachsen                           ;
-       4664;Selb/Oberfranken-Wildenau               ;   50.196948;   12.172692;          611;Bayern                                  ;
-       4692;Siegen (Kläranlage)                     ;   50.853381;    7.996614;          229;Nordrhein-Westfalen                     ;
-       4703;Sigmaringen-Laiz                        ;   48.071864;    9.194326;        580.5;Baden-Württemberg                       ;
-       4709;Simmern-Wahlbach                        ;    49.99959;     7.59812;          445;Rheinland-Pfalz                         ;
-       4741;Solingen-Hohenscheid                    ;    51.14004;    7.092982;          152;Nordrhein-Westfalen                     ;
-       4745;Soltau                                  ;   52.960408;    9.793049;         75.4;Niedersachsen                           ;
-       4748;Sondershausen                           ;   51.352007;   10.905861;          221;Thüringen                               ;
-       4752;Sonneberg-Neufang                       ;   50.374621;   11.182835;          626;Thüringen                               ;
-       4763;Sontra                                  ;   51.060686;    9.926618;          265;Hessen                                  ;
-       4818;Stammbach-Querenbach                    ;   50.153146;   11.740168;          597;Bayern                                  ;
-       4887;Stötten                                 ;   48.665587;    9.864791;        733.8;Baden-Württemberg                       ;
-       4928;Stuttgart (Schnarrenberg)               ;   48.828085;    9.200028;        314.3;Baden-Württemberg                       ;
-       4931;Stuttgart-Echterdingen                  ;   48.688265;    9.223548;          371;Baden-Württemberg                       ;
-       5009;Teterow                                 ;   53.761054;   12.557389;           33;Mecklenburg-Vorpommern                  ;
-       5014;Worpswede-Hüttenbusch                   ;   53.275827;    8.985687;            7;Niedersachsen                           ;
-       5017;Teuschnitz                              ;   50.400246;    11.38883;          633;Bayern                                  ;
-       5047;Titisee-Neustadt-Langenordnach          ;   47.939386;     8.19329;          870;Baden-Württemberg                       ;
-       5049;Titisee-Neustadt-Titisee                ;    47.89909;    8.145997;          846;Baden-Württemberg                       ;
-       5064;Tönisvorst                              ;   51.289722;    6.443651;           37;Nordrhein-Westfalen                     ;
-       5068;Torgau                                  ;     51.5833;          13;           80;Sachsen                                 ;
-       5078;Travemünde                              ;   53.961947;   10.889158;          2.3;Schleswig-Holstein                      ;
-       5094;Triberg                                 ;   48.131564;    8.228284;          683;Baden-Württemberg                       ;
-       5099;Trier-Zewen                             ;   49.732632;    6.613147;        131.5;Rheinland-Pfalz                         ;
-       5100;Trier-Petrisberg                        ;   49.747883;    6.658296;          265;Rheinland-Pfalz                         ;
-       5111;Trostberg                               ;   48.031106;   12.539575;          560;Bayern                                  ;
-       5138;Überlingen/Bodensee                     ;   47.771308;    9.156156;          446;Baden-Württemberg                       ;
-       5142;Ueckermünde                             ;   53.744455;   14.069809;          1.2;Mecklenburg-Vorpommern                  ;
-       5146;Uelzen                                  ;   52.941435;   10.528857;           50;Niedersachsen                           ;
-       5149;Gollhofen                               ;   49.574055;   10.191544;          306;Bayern                                  ;
-       5155;Ulm                                     ;   48.383656;    9.952422;        566.8;Baden-Württemberg                       ;
-       5165;Unterlüß                                ;   52.849932;   10.289833;           95;Niedersachsen                           ;
-       5229;Villingen-Schwenningen                  ;   48.045325;    8.460769;          719;Baden-Württemberg                       ;
-       5250;Vogtsburg-Oberrotweil                   ;   48.090768;    7.635268;          223;Baden-Württemberg                       ;
-       5296;Waldeck                                 ;   51.207015;     9.06584;          376;Hessen                                  ;
-       5300;Waldems-Reinborn                        ;   50.259603;    8.360676;          380;Hessen                                  ;
-       5320;Waldshut                                ;   47.617223;    8.238786;          330;Baden-Württemberg                       ;
-       5335;Waltershausen                           ;   50.896285;    10.54834;          352;Thüringen                               ;
-       5344;Wangerooge                              ;   53.786537;    7.909559;            2;Niedersachsen                           ;
-       5349;Waren (Müritz)                          ;   53.519622;   12.665404;         72.6;Mecklenburg-Vorpommern                  ;
-       5361;Wartenberg-Angersbach                   ;   50.627083;    9.441989;          270;Hessen                                  ;
-       5369;Wasserburg                              ;   48.057192;   12.220222;          443;Bayern                                  ;
-       5371;Wasserkuppe                             ;   50.497277;    9.942739;          921;Hessen                                  ;
-       5397;Weiden                                  ;   49.666221;   12.184448;        439.6;Bayern                                  ;
-       5404;Weihenstephan-Dürnast                   ;   48.402404;   11.694552;        477.1;Bayern                                  ;
-       5410;Weilburg (Kläranlage)                   ;   50.473156;    8.258845;          150;Hessen                                  ;
-       5419;Weimar                                  ;   50.975084;   11.307642;          264;Thüringen                               ;
-       5424;Weimar-Schöndorf                        ;    51.01765;   11.354409;          328;Thüringen                               ;
-       5433;Weiskirchen/Saar                        ;   49.553365;    6.811951;          380;Saarland                                ;
-       5434;Weismain                                ;   50.085754;   11.236431;          317;Bayern                                  ;
-       5440;Weißenburg-Emetzheim                    ;    49.01153;   10.930837;        439.3;Bayern                                  ;
-       5467;Wendelstein                             ;   47.703531;   12.011857;         1832;Bayern                                  ;
-       5488;Mühlhausen, Kr. Schweinfurt             ;   49.962162;   10.048207;          216;Bayern                                  ;
-       5490;Wernigerode                             ;    51.84544;   10.768627;        233.3;Sachsen-Anhalt                          ;
-       5498;Wertheim-Eichel                         ;   49.766682;    9.542783;          140;Baden-Württemberg                       ;
-       5516;Fehmarn                                 ;   54.528292;   11.060556;          3.2;Schleswig-Holstein                      ;
-       5540;Wiesbaden (Süd)                         ;    50.06516;     8.25971;          132;Hessen                                  ;
-       5543;Wiesbaden-Dotzheim                      ;   50.086341;    8.187179;          235;Hessen                                  ;
-       5559;Wildbad, Bad-Calmbach                   ;   48.784843;    8.576383;          383;Baden-Württemberg                       ;
-       5560;Wildbad, Bad-Sommerberg                 ;   48.750094;    8.536537;          740;Baden-Württemberg                       ;
-       5575;Wilhelmshaven                           ;   53.590139;    8.105969;            1;Niedersachsen                           ;
-       5582;Willingen/Upland                        ;   51.294004;    8.602609;          580;Hessen                                  ;
-       5610;Winterberg                              ;   51.187225;    8.507874;          733;Nordrhein-Westfalen                     ;
-       5629;Wittenberg                              ;   51.889124;   12.644598;        104.5;Sachsen-Anhalt                          ;
-       5644;Witzenhausen                            ;   51.349302;    9.843821;          133;Hessen                                  ;
-       5654;Wörnitz-Bottenweiler                    ;   49.217848;   10.229589;          464;Bayern                                  ;
-       5664;Wolfach                                 ;   48.295324;    8.239068;          296;Baden-Württemberg                       ;
-       5692;Worms                                   ;   49.605078;    8.365906;           88;Rheinland-Pfalz                         ;
-       5705;Würzburg                                ;   49.770378;    9.957627;          268;Bayern                                  ;
-       5717;Wuppertal-Buchenhofen                   ;   51.225598;    7.105176;          134;Nordrhein-Westfalen                     ;
-       5731;Wutöschingen-Ofteringen                 ;   47.678267;    8.380132;        394.5;Baden-Württemberg                       ;
-       5732;Wrixum/Föhr                             ;   54.692781;    8.527128;            8;Schleswig-Holstein                      ;
-       5745;Zehdenick                               ;   52.966344;   13.326752;           51;Brandenburg                             ;
-       5750;Zeitz                                   ;   51.031411;    12.14949;          264;Sachsen-Anhalt                          ;
-       5792;Zugspitze                               ;   47.421037;   10.984761;       2964.5;Bayern                                  ;
-       5802;Zwieselberg                             ;   49.000693;   13.213664;          615;Bayern                                  ;
-       5825;Berge                                   ;   52.619829;   12.786684;           40;Brandenburg                             ;
-       5890;Kohlgrub, Bad (A)                       ;   47.677728;   11.047292;          850;Bayern                                  ;
-       5906;Mannheim                                ;   49.506251;    8.558439;           98;Baden-Württemberg                       ;
-       5912;Malsfeld                                ;   51.098847;    9.538035;          169;Hessen                                  ;
-       5920;Neuwied                                 ;   50.448498;     7.42749;           91;Rheinland-Pfalz                         ;
-       5941;Reit im Winkl                           ;   47.675415;   12.469775;        685.5;Bayern                                  ;
-       6159;Dörpen                                  ;   52.954182;    7.319582;            8;Niedersachsen                           ;
-       7135;Aulendorf-Haslach                       ;   47.965473;    9.680409;          565;Baden-Württemberg                       ;
-      14311;Hersdorf-Weißenseifen                   ;   50.149979;    6.552789;          530;Rheinland-Pfalz                         ;
-      19087;Freyung vorm Wald                       ;   48.804879;   13.552775;          645;Bayern                                  ;
+Stations_id,Stationsname,Breite, Laenge,Stationshoehe,Bundesland
+1,Aach                                    ,   47.841299,    8.849299,478,Baden-Württemberg                       
+3,Aachen                                  ,   50.782659,    6.094087,202,Nordrhein-Westfalen                     
+73,Aldersbach-Kriestorf                    ,   48.615918,   13.050637,340,Bayern                                  
+78,Alfhausen                               ,   52.485314,    7.912553,65,Niedersachsen                           
+132,Altglashütte                            ,   49.772498,   12.389068,750,Bayern                                  
+142,Altomünster-Maisbrunn                   ,   48.406036,   11.311694,        510.5,Bayern                                  
+150,Alzey                                   ,     49.7273,    8.116356,215,Rheinland-Pfalz                         
+151,Amberg-Unterammersricht                 ,   49.469061,   11.854626,        381.5,Bayern                                  
+164,Angermünde                              ,   53.031558,    13.99082,         53.9,Brandenburg                             
+183,Arkona                                  ,   54.679109,   13.434416,42,Mecklenburg-Vorpommern                  
+186,Arnsberg                                ,   51.377293,    8.071289,        217.9,Nordrhein-Westfalen                     
+198,Artern                                  ,   51.374418,   11.291962,        163.9,Thüringen                               
+217,Attenkam                                ,   47.877428,   11.364282,670,Bayern                                  
+232,Augsburg                                ,   48.425292,   10.941681,        461.5,Bayern                                  
+243,Aurich                                  ,   53.462052,    7.466971,4,Niedersachsen                           
+257,Baden-Baden-Geroldsau                   ,   48.726985,    8.245738,240,Baden-Württemberg                       
+259,Müllheim                                ,   47.806371,    7.638692,275,Baden-Württemberg                       
+282,Bamberg                                 ,   49.874252,   10.920558,240,Bayern                                  
+314,Kubschütz,   51.160383,   14.504184,234,Sachsen                                 
+320,Heinersreuth-Vollhof                    ,   49.966617,   11.519843,        349.5,Bayern                                  
+327,Bederkesa                               ,   53.623437,    8.832253,27,Niedersachsen                           
+330,Oberzent-Beerfelden                     ,   49.561729,    8.967329,455,Hessen                                  
+355,Bensheim                                ,   49.678889,    8.627617,140,Hessen                                  
+377,Bergzabern,   49.107025,    7.996749,210,Rheinland-Pfalz                         
+379,Berka,   50.907455,   11.266477,304,Thüringen                               
+400,Berlin-Buch                             ,   52.630956,   13.502135,60,Berlin                                  
+403,Berlin-Dahlem (FU)                      ,   52.453711,   13.301731,51,Berlin                                  
+427,Berlin Brandenburg                      ,   52.380702,   13.530576,         45.6,Brandenburg                             
+430,Berlin-Tegel                            ,   52.564402,   13.308805,         35.5,Berlin                                  
+433,Berlin-Tempelhof                        ,   52.467451,    13.40212,48,Berlin                                  
+435,Berlin-Zehlendorf                       ,   52.428902,   13.232686,45,Berlin                                  
+445,Bernburg/Saale (Nord)                   ,   51.821792,    11.71098,         84.5,Sachsen-Anhalt                          
+450,Bernkastel-Kues                         ,     49.9186,      7.0664,120,Rheinland-Pfalz                         
+460,Berus                                   ,   49.264065,     6.68677,363,Saarland                                
+474,Warthausen-Birkenhard                   ,    48.12517,    9.763868,599,Baden-Württemberg                       
+480,Biedenkopf-Wallau                       ,    50.92751,    8.493681,296,Hessen                                  
+535,Blankenrath                             ,   50.037229,    7.307861,417,Rheinland-Pfalz                         
+591,Boizenburg                              ,   53.391093,    10.68781,45,Mecklenburg-Vorpommern                  
+596,Boltenhagen                             ,   54.002724,    11.19082,15,Mecklenburg-Vorpommern                  
+599,Bonn-Friesdorf                          ,   50.705468,     7.14673,62,Nordrhein-Westfalen                     
+619,Borkum-Süderstraße                      ,   53.578793,    6.670348,         11.6,Niedersachsen                           
+648,Brande-Hörnerkirchen                    ,   53.855114,     9.71521,9,Schleswig-Holstein                      
+656,Braunlage                               ,   51.723383,   10.602109,        607.3,Niedersachsen                           
+662,Braunschweig                            ,   52.291469,   10.446448,         81.4,Niedersachsen                           
+691,Bremen                                  ,    53.04507,    8.798084,4,Bremen                                  
+701,Bremerhaven                             ,    53.53321,    8.576089,          6.5,Bremen                                  
+717,Brilon                                  ,   51.387293,    8.573713,443,Nordrhein-Westfalen                     
+722,Brocken                                 ,   51.798615,    10.61828,       1134.7,Sachsen-Anhalt                          
+727,Brombachtal-Kirch-Brombach              ,   49.734483,    8.955669,290,Hessen                                  
+736,Brücken                                 ,   49.630291,    7.114838,390,Rheinland-Pfalz                         
+755,Buchen,   49.518196,     9.32127,340,Baden-Württemberg                       
+772,Bühlertal                               ,     48.6957,    8.174389,190,Baden-Württemberg                       
+807,Schlüsselfeld (Kläranlage)              ,    49.74499,   10.643423,290,Bayern                                  
+817,Burgwald-Bottendorf                     ,   51.030568,    8.814605,293,Hessen                                  
+851,Pemfling-Pitzling                       ,    49.25044,   12.604179,        391.5,Bayern                                  
+853,Chemnitz                                ,   50.791286,   12.871977,        416.1,Sachsen                                 
+863,Clausthal-Zellerfeld                    ,   51.790354,   10.347039,585,Niedersachsen                           
+867,Lautertal-Oberlauter                    ,   50.306639,   10.967938,        343.8,Bayern                                  
+880,Cottbus                                 ,   51.775922,   14.316796,69,Brandenburg                             
+881,Crailsheim-Alexandersreut               ,   49.098476,   10.097896,423,Baden-Württemberg                       
+891,Cuxhaven                                ,   53.871254,    8.705821,5,Niedersachsen                           
+920,Darmstadt (US-Air-Base)                 ,   49.856368,    8.592921,        107.5,Hessen                                  
+953,Deuselbach                              ,   49.761875,    7.054249,        480.5,Rheinland-Pfalz                         
+963,Diepholz                                ,   52.588112,    8.342405,         37.7,Niedersachsen                           
+979,Dillenburg                              ,   50.736371,    8.267238,314,Hessen                                  
+982,Dillingen/Donau                         ,   48.570123,   10.498459,420,Bayern                                  
+998,Dobel                                   ,   48.796789,    8.492143,696,Baden-Württemberg                       
+1001,Doberlug-Kirchhain                      ,   51.645071,   13.574714,         96.8,Brandenburg                             
+1018,Donaueschingen                          ,   47.942187,    8.504647,677,Baden-Württemberg                       
+1032,Dortmund                                ,   51.511976,    7.534469,120,Nordrhein-Westfalen                     
+1048,Dresden-Klotzsche                       ,   51.127797,   13.754251,        227.6,Sachsen                                 
+1050,Dresden-Hosterwitz                      ,   51.022068,   13.847006,112,Sachsen                                 
+1053,Driburg,   51.733655,    9.044538,192,Nordrhein-Westfalen                     
+1072,Dürkheim,   49.471913,    8.192896,107,Rheinland-Pfalz                         
+1076,Dürrheim,   48.013478,    8.534342,692,Baden-Württemberg                       
+1079,Düsseldorf-Südfriedhof                  ,   51.199811,    6.757388,37,Nordrhein-Westfalen                     
+1087,Duisburg-Laar                           ,   51.463381,    6.732091,21,Nordrhein-Westfalen                     
+1093,Eberbach                                ,   49.459307,    8.959463,131,Baden-Württemberg                       
+1107,Ebrach                                  ,   49.851954,   10.499124,        345.5,Bayern                                  
+1161,Eichstätt-Landershofen                  ,   48.877749,    11.23488,384,Bayern                                  
+1172,Einbeck                                 ,   51.818948,    9.887109,123,Niedersachsen                           
+1197,Ellwangen-Rindelbach                    ,   48.989498,   10.131234,460,Baden-Württemberg                       
+1201,Elsdorf/Erftkreis                       ,   50.928142,    6.564617,85,Nordrhein-Westfalen                     
+1207,Elster,    50.27046,   12.274171,        557.5,Sachsen                                 
+1229,Ems,   50.332412,     7.69745,90,Rheinland-Pfalz                         
+1238,Engelskirchen                           ,   50.988436,    7.424988,144,Nordrhein-Westfalen                     
+1254,Eppingen                                ,   49.130652,     8.91648,210,Baden-Württemberg                       
+1266,Erfde                                   ,   54.299212,    9.316185,18,Schleswig-Holstein                      
+1270,Erfurt-Weimar                           ,   50.982887,   10.960753,316,Thüringen                               
+1279,Möhrendorf-Kleinseebach                 ,   49.649749,   11.007464,        267.5,Bayern                                  
+1297,Eschwege                                ,   51.204132,   10.013767,156,Hessen                                  
+1300,Eslohe                                  ,    51.25399,     8.15653,351,Nordrhein-Westfalen                     
+1303,Essen-Bredeney                          ,   51.404085,    6.967741,150,Nordrhein-Westfalen                     
+1327,Weilerswist-Lommersum                   ,   50.711886,    6.790489,147,Nordrhein-Westfalen                     
+1329,Eutin                                   ,   54.133987,   10.586466,50,Schleswig-Holstein                      
+1346,Feldberg/Schwarzwald                    ,   47.874893,    8.003817,       1489.6,Baden-Württemberg                       
+1357,Fichtelberg/Oberfranken-Hüttstadl       ,   49.980702,   11.837601,        654.5,Bayern                                  
+1358,Fichtelberg                             ,   50.428295,   12.953583,1213,Sachsen                                 
+1410,Frankenhausen/Kyffhäuser,   51.351209,   11.095832,130,Thüringen                               
+1411,Birx/Rhön                               ,    50.53092,   10.047947,747,Thüringen                               
+1420,Frankfurt/Main                          ,   50.025911,    8.521294,         99.7,Hessen                                  
+1441,Freiberg                                ,   50.926306,   13.271085,416,Sachsen                                 
+1443,Freiburg                                ,   48.023242,    7.834292,        236.5,Baden-Württemberg                       
+1468,Freudenstadt                            ,   48.453828,    8.408952,        796.5,Baden-Württemberg                       
+1492,Malsburg-Marzell-Friedrichsheim         ,   47.781903,    7.734756,852,Baden-Württemberg                       
+1503,Friesoythe-Altenoythe                   ,   53.064301,    7.901969,          5.7,Niedersachsen                           
+1526,Fulda-Horas                             ,   50.566786,    9.653221,242,Hessen                                  
+1544,Gardelegen                              ,   52.512889,   11.394174,47,Sachsen-Anhalt                          
+1550,Garmisch-Partenkirchen                  ,   47.482989,   11.062126,        719.3,Bayern                                  
+1580,Geisenheim                              ,   49.985894,    7.954826,        110.2,Hessen                                  
+1590,Geldern-Walbeck                         ,   51.494168,    6.246343,37,Nordrhein-Westfalen                     
+1605,Genthin                                 ,   52.387511,   12.160174,35,Sachsen-Anhalt                          
+1612,Gera-Leumnitz                           ,   50.881208,   12.128885,311,Thüringen                               
+1619,Gernsheim                               ,   49.762199,    8.488697,90,Hessen                                  
+1639,Gießen/Wettenberg                       ,   50.601715,    8.643898,        203.2,Hessen                                  
+1645,Gilserberg-Moischeid                    ,   50.965565,    9.050014,340,Hessen                                  
+1667,Glückstadt                              ,    53.79702,    9.429456,1,Schleswig-Holstein                      
+1684,Görlitz                                 ,   51.162129,   14.950606,        238.5,Sachsen                                 
+1689,Gößweinstein                            ,   49.765641,   11.306236,441,Bayern                                  
+1691,Göttingen                               ,   51.500248,    9.950659,        167.4,Niedersachsen                           
+1694,Goldberg                                ,   53.605834,   12.103404,58,Mecklenburg-Vorpommern                  
+1735,Grainet-Rehberg                         ,    48.78935,   13.629026,628,Bayern                                  
+1748,Grebenhain-Herchenhain                  ,   50.478799,    9.262017,608,Hessen                                  
+1762,Greiz-Dölau                             ,   50.624899,   12.177683,270,Thüringen                               
+1873,Grund,   51.795553,   10.237956,300,Niedersachsen                           
+1875,Gschwend,   48.935378,    9.736363,492,Baden-Württemberg                       
+1891,Rheda-Wiedenbrück-Lintel                ,   51.877017,    8.357671,         72.5,Nordrhein-Westfalen                     
+1929,Hahnenklee                              ,   51.859746,    10.33684,567,Niedersachsen                           
+1957,Halle-Kröllwitz                         ,   51.513769,   11.949933,93,Sachsen-Anhalt                          
+1964,Olsdorf                                 ,   49.944479,     6.38211,328,Rheinland-Pfalz                         
+1975,Hamburg-Fuhlsbüttel                     ,   53.633172,    9.988102,         10.7,Hamburg                                 
+1981,Hamburg-Neuwiedenthal                   ,   53.477658,    9.895686,3,Hamburg                                 
+1987,Hamburg-Sankt Pauli                     ,   53.546681,    9.966227,         47.2,Hamburg                                 
+1990,Hamburg-Wandsbek                        ,   53.585347,   10.129348,18,Hamburg                                 
+1993,Hameln                                  ,   52.084784,    9.389576,68,Niedersachsen                           
+2005,Hankensbüttel                           ,   52.719949,   10.598687,108,Niedersachsen                           
+2014,Hannover                                ,   52.464428,    9.677906,         55.2,Niedersachsen                           
+2039,Harzburg,   51.900249,   10.569851,201,Niedersachsen                           
+2044,Harzgerode                              ,   51.651967,   11.136645,404,Sachsen-Anhalt                          
+2074,Hechingen                               ,   48.375242,    8.980031,        517.5,Baden-Württemberg                       
+2078,Weddingstedt                            ,    54.21807,    9.085307,10,Schleswig-Holstein                      
+2080,Heidelberg                              ,   49.420618,    8.667613,110,Baden-Württemberg                       
+2088,Heidenheim/Brenz                        ,   48.684941,   10.141978,522,Baden-Württemberg                       
+2092,Heidenrod-Mappershain                   ,   50.169131,    7.994907,496,Hessen                                  
+2095,Heilbronn                               ,   49.144752,    9.233334,167,Baden-Württemberg                       
+2110,Heinsberg-Schleiden                     ,   51.041072,    6.104239,57,Nordrhein-Westfalen                     
+2115,Helgoland                               ,   54.174971,    7.891995,          4.4,Schleswig-Holstein                      
+2120,Helmstedt                               ,   52.216409,    11.02193,140,Niedersachsen                           
+2122,Helse,   53.970098,    9.009522,2,Schleswig-Holstein                      
+2147,Herford                                 ,   52.126408,     8.68649,77,Nordrhein-Westfalen                     
+2151,Herleshausen                            ,   51.004843,   10.170476,215,Hessen                                  
+2158,Herrenalb,   48.804189,    8.443019,350,Baden-Württemberg                       
+2167,Niederwörresbach                        ,   49.767176,    7.335605,302,Rheinland-Pfalz                         
+2171,Hersfeld,   50.851957,    9.737694,        272.2,Hessen                                  
+2201,Hiddensee-Vitte                         ,   54.574971,   13.104427,1,Mecklenburg-Vorpommern                  
+2206,Hildesheim                              ,   52.140812,    9.883806,117,Niedersachsen                           
+2211,Hilgenroth                              ,   50.737016,    7.652531,295,Rheinland-Pfalz                         
+2228,Hinterzarten                            ,    47.89829,    8.105503,883,Baden-Württemberg                       
+2244,Höchenschwand                           ,   47.732709,    8.162696,1008,Baden-Württemberg                       
+2250,Höllenstein (Kraftwerk)                 ,   49.127875,   12.864512,403,Bayern                                  
+2260,Hof (Stadt)                             ,   50.323032,   11.907729,474,Bayern                                  
+2261,Hof                                     ,   50.312257,   11.876039,        565.2,Bayern                                  
+2264,Hofgeismar-Beberbeck                    ,   51.533979,    9.478874,242,Hessen                                  
+2268,Hofheim                                 ,   50.135089,   10.515559,265,Bayern                                  
+2290,Hohenpeißenberg                         ,   47.800869,   11.010819,        977.2,Bayern                                  
+2323,Bevern,    51.85294,    9.495274,110,Niedersachsen                           
+2327,Homberg/Ohm                             ,   50.731569,    9.003154,250,Hessen                                  
+2349,Hornisgrinde                            ,   48.613637,    8.203343,       1138.1,Baden-Württemberg                       
+2423,Isny                                    ,   47.689421,   10.041633,712,Baden-Württemberg                       
+2444,Jena (Sternwarte)                       ,   50.925141,   11.582984,155,Thüringen                               
+2456,Jever                                   ,     53.5322,      7.8806,7,Niedersachsen                           
+2464,Jork                                    ,   53.531551,    9.675221,1,Niedersachsen                           
+2480,Kahl/Main                               ,   50.064347,    8.992973,        107.5,Bayern                                  
+2483,Kahler Asten                            ,   51.180254,    8.489068,839,Nordrhein-Westfalen                     
+2486,Kaiserslautern                          ,   49.426213,    7.755714,271,Rheinland-Pfalz                         
+2488,Kaisheim-Neuhof                         ,   48.770102,   10.787615,516,Bayern                                  
+2497,Kall-Sistig                             ,    50.50141,    6.526408,505,Nordrhein-Westfalen                     
+2503,Kaltennordheim                          ,   50.626586,   10.145485,487,Thüringen                               
+2521,Karlshuld                               ,   48.676515,   11.296144,374,Bayern                                  
+2522,Karlsruhe                               ,   49.038161,     8.36406,        111.6,Baden-Württemberg                       
+2532,Kassel                                  ,   51.296303,    9.442424,231,Hessen                                  
+2559,Kempten                                 ,   47.723263,   10.334786,        705.2,Bayern                                  
+2565,Kiel-Kronshagen                         ,   54.337761,   10.092943,17,Schleswig-Holstein                      
+2578,Kirchdorf/Poel                          ,   53.999513,   11.434142,14,Mecklenburg-Vorpommern                  
+2597,Kissingen,   50.223991,   10.079245,        281.8,Bayern                                  
+2601,Kleiner Feldberg/Taunus                 ,   50.221797,    8.446883,        822.1,Hessen                                  
+2618,Kleiner Inselsberg                      ,   50.845847,   10.480262,732,Thüringen                               
+2629,Kleve                                   ,   51.761242,    6.095381,46,Nordrhein-Westfalen                     
+2638,Klippeneck                              ,   48.105397,    8.754788,        973.5,Baden-Württemberg                       
+2657,Koblenz-Horchheim                       ,   50.336911,    7.599165,85,Rheinland-Pfalz                         
+2667,Köln-Bonn                               ,   50.864559,    7.157488,92,Nordrhein-Westfalen                     
+2677,Königsfeld/Schwarzwald                  ,   48.141264,    8.428456,730,Baden-Württemberg                       
+2680,Königshofen,   50.284014,   10.445599,        288.5,Bayern                                  
+2693,Königstein/Taunus                       ,    50.18553,    8.469837,380,Hessen                                  
+2700,Kösching                                ,   48.830189,   11.487243,416,Bayern                                  
+2750,Kronach                                 ,   50.252352,   11.320925,310,Bayern                                  
+2761,Krumbach-Edenhausen                     ,   48.250959,   10.416274,520,Bayern                                  
+2812,Lahr                                    ,   48.364742,    7.827986,        155.7,Baden-Württemberg                       
+2814,Merklingen                              ,   48.512173,    9.764396,687,Baden-Württemberg                       
+2861,Langeoog                                ,    53.74452,    7.477468,5,Niedersachsen                           
+2878,Lauchstädt,    51.39092,   11.878575,        117.4,Sachsen-Anhalt                          
+2879,Lauda-Königshofen-Gerlachsheim          ,   49.578104,     9.71416,199,Baden-Württemberg                       
+2925,Leinefelde                              ,   51.393197,   10.312349,        355.9,Thüringen                               
+2928,Leipzig-Holzhausen                      ,    51.31509,   12.446226,138,Sachsen                                 
+2947,Lennestadt-Theten                       ,   51.133253,    8.034831,286,Nordrhein-Westfalen                     
+2949,Lenningen-Schopfloch                    ,   48.539622,    9.527497,758,Baden-Württemberg                       
+2950,Lensahn                                 ,   54.218979,   10.884417,14,Schleswig-Holstein                      
+2953,Lenzkirch-Ruhbühl                       ,   47.859705,    8.230755,854,Baden-Württemberg                       
+2968,Köln-Stammheim                          ,   50.989428,    6.977688,43,Nordrhein-Westfalen                     
+3001,Liliental                               ,    48.06737,    7.676963,284,Baden-Württemberg                       
+3004,Limburg/Lahn-Offheim                    ,   50.411603,    8.060496,185,Hessen                                  
+3015,Lindenberg                              ,   52.208489,   14.118032,98,Brandenburg                             
+3023,Lingen                                  ,   52.518093,    7.308057,22,Niedersachsen                           
+3028,Lippspringe,   51.785416,    8.838795,157,Nordrhein-Westfalen                     
+3032,List auf Sylt                           ,   55.010989,    8.412531,         24.7,Schleswig-Holstein                      
+3044,Löningen                                ,   52.719795,     7.74721,22,Niedersachsen                           
+3056,Lohr/Main-Steinbach                     ,   50.010254,    9.609971,161,Bayern                                  
+3062,Lorch/Rhein                             ,   50.035246,    7.819733,100,Hessen                                  
+3093,Lüchow                                  ,   52.972379,   11.137371,         16.2,Niedersachsen                           
+3096,Lüdenscheid (Zeppelin-Gymnasium)        ,   51.213111,    7.635855,444,Nordrhein-Westfalen                     
+3101,Lüdinghausen                            ,   51.769446,    7.412787,58,Nordrhein-Westfalen                     
+3103,Lüneburg                                ,   53.265685,   10.424006,11,Niedersachsen                           
+3126,Magdeburg                               ,   52.102896,   11.582674,79,Sachsen-Anhalt                          
+3137,Mainz-Lerchenberg (ZDF)                 ,   49.965563,    8.213884,195,Rheinland-Pfalz                         
+3147,Mallersdorf-Pfaffenberg-Oberlindhart    ,   48.754812,   12.211827,390,Bayern                                  
+3155,Manderscheid-Sonnenhof                  ,   50.101542,    6.800909,413,Rheinland-Pfalz                         
+3164,Cölbe,   50.849234,    8.774517,187,Hessen                                  
+3166,Marienberg                              ,   50.651055,   13.146876,639,Sachsen                                 
+3167,Marienberg,   50.662061,    7.960264,        546.7,Rheinland-Pfalz                         
+3196,Marnitz                                 ,    53.32222,   11.932143,81,Mecklenburg-Vorpommern                  
+3212,Mayen                                   ,   50.324912,    7.230019,230,Rheinland-Pfalz                         
+3234,Garsebach bei Meißen                    ,   51.129431,   13.432783,158,Sachsen                                 
+3244,Memmingen                               ,   47.982065,    10.13838,614,Bayern                                  
+3253,Sankt Blasien-Menzenschwand             ,    47.83087,    8.069848,882,Baden-Württemberg                       
+3257,Mergentheim,   49.477324,    9.762223,        250.5,Baden-Württemberg                       
+3271,Metten                                  ,    48.85476,   12.918911,314,Bayern                                  
+3307,Mittenwald-Buckelwiesen                 ,   47.477866,   11.265311,        983.5,Bayern                                  
+3366,Mühldorf                                ,   48.278982,   12.502407,        405.6,Bayern                                  
+3376,Müncheberg                              ,   52.517588,   14.123226,63,Brandenburg                             
+3379,München-Stadt                           ,   48.163202,   11.542893,        515.4,Bayern                                  
+3385,München-Nymphenburg                     ,   48.165975,   11.501122,515,Bayern                                  
+3390,München-Riem                            ,    48.13688,   11.709393,529,Bayern                                  
+3402,Münsingen-Apfelstetten                  ,   48.385084,    9.483739,        754.5,Baden-Württemberg                       
+3404,Münster                                 ,   51.949426,    7.590559,62,Nordrhein-Westfalen                     
+3425,Murrhardt                               ,    48.97288,    9.571159,344,Baden-Württemberg                       
+3432,Nagold                                  ,   48.567499,    8.717902,380,Baden-Württemberg                       
+3442,Nauheim,   50.357418,    8.750564,        148.5,Hessen                                  
+3486,Neudenau                                ,   49.293135,    9.272227,212,Baden-Württemberg                       
+3490,Neuenahr,   50.534561,    7.085337,111,Rheinland-Pfalz                         
+3527,Neukirchen-Hauptschwenda                ,    50.89228,     9.40498,500,Hessen                                  
+3537,Neumünster                              ,   54.087289,    9.979065,26,Schleswig-Holstein                      
+3541,Neunkirchen-Seelscheid-Meisenbach       ,   50.895646,    7.308106,185,Nordrhein-Westfalen                     
+3552,Neuruppin                               ,   52.903704,   12.807205,38,Brandenburg                             
+3565,Neustadt/Aisch                          ,   49.572809,   10.600131,315,Bayern                                  
+3590,Nidderau-Windecken                      ,   50.233526,    8.892274,180,Hessen                                  
+3612,Nienburg                                ,   52.671083,     9.22291,25,Niedersachsen                           
+3621,Reimlingen                              ,   48.825254,   10.506667,435,Bayern                                  
+3631,Norderney                               ,   53.712304,    7.151923,         11.5,Niedersachsen                           
+3640,Nordhorn-Blanke                         ,   52.412368,    7.063994,24,Niedersachsen                           
+3659,Nürburg                                 ,    50.33911,    6.950061,627,Rheinland-Pfalz                         
+3668,Nürnberg                                ,   49.503031,   11.054923,314,Bayern                                  
+3671,Nürtingen                               ,   48.632111,    9.326125,280,Baden-Württemberg                       
+3679,Kiefersfelden-Gach                      ,   47.618701,   12.166532,518,Bayern                                  
+3730,Oberstdorf                              ,   47.398429,   10.275881,        805.8,Bayern                                  
+3739,Oberviechtach                           ,   49.452096,   12.436546,596,Bayern                                  
+3753,Ochtrup                                 ,   52.204196,    7.178421,56,Nordrhein-Westfalen                     
+3761,Öhringen                                ,   49.207016,    9.517582,        275.9,Baden-Württemberg                       
+3776,Offenbach/M. (Stadt)                    ,   50.094641,    8.754596,110,Hessen                                  
+3777,Offenburg                               ,   48.459326,    7.925526,153,Baden-Württemberg                       
+3790,Oldenburg (A)                           ,   53.101795,     8.25155,5,Niedersachsen                           
+3815,Osnabrück                               ,   52.255342,    8.053353,         95.4,Niedersachsen                           
+3856,Oy-Mittelberg                           ,   47.638329,   10.431279,1010,Bayern                                  
+3875,Parsberg/Oberpfalz-Eglwang              ,    49.15102,   11.689638,549,Bayern                                  
+3879,Passau-Oberhaus                         ,   48.577943,   13.469437,409,Bayern                                  
+3904,Perl-Nennig                             ,   49.535353,    6.378874,152,Saarland                                
+3924,Pforzheim-Eutingen                      ,   48.905877,    8.741206,246,Baden-Württemberg                       
+3927,Pfullendorf                             ,   47.934471,     9.28693,        629.5,Baden-Württemberg                       
+3939,Pirmasens                               ,   49.191191,      7.5879,385,Rheinland-Pfalz                         
+3946,Plauen                                  ,   50.481832,   12.130043,        387.1,Sachsen                                 
+3955,Plön (See)                              ,   54.158983,   10.401996,24,Schleswig-Holstein                      
+3974,Pommelsbrunn                            ,   49.505822,     11.5142,368,Bayern                                  
+3987,Potsdam                                 ,   52.381247,    13.06223,81,Brandenburg                             
+3988,Potsdam (Säkularstation)                ,   52.382206,   13.062213,81,Brandenburg                             
+4024,Putbus                                  ,   54.364277,   13.477079,         39.5,Mecklenburg-Vorpommern                  
+4032,Quedlinburg                             ,   51.795344,   11.131995,142,Sachsen-Anhalt                          
+4053,Radolfzell-Markelfingen                 ,    47.74575,    9.000658,407,Baden-Württemberg                       
+4063,Rahden-Kleinendorf                      ,   52.446122,    8.590574,         40.5,Nordrhein-Westfalen                     
+4091,Rauschberg bei Ruhpolding               ,   47.732733,   12.682663,1640,Bayern                                  
+4094,Weingarten,   47.806248,    9.620579,        440.5,Baden-Württemberg                       
+4104,Regensburg                              ,   49.042482,   12.101943,        365.4,Bayern                                  
+4125,Reichenhall,   47.723835,   12.874037,470,Bayern                                  
+4169,Rheinau-Memprechtshofen                 ,   48.670276,    7.993861,        130.5,Baden-Württemberg                       
+4175,Rheinfelden                             ,   47.558973,    7.772149,        282.5,Baden-Württemberg                       
+4222,Rodewisch                               ,   50.526312,   12.409051,464,Sachsen                                 
+4240,Roetgen                                 ,   50.640675,    6.205771,440,Nordrhein-Westfalen                     
+4261,Rosenheim                               ,   47.875339,   12.127976,442,Bayern                                  
+4271,Rostock-Warnemünde                      ,   54.180279,   12.080806,4,Mecklenburg-Vorpommern                  
+4275,Rotenburg (Wümme)                       ,   53.128845,    9.339751,32,Niedersachsen                           
+4278,Roth bei Nürnberg                       ,   49.251149,   11.093364,340,Bayern                                  
+4287,Rothenburg ob der Tauber                ,   49.384842,   10.173229,415,Bayern                                  
+4293,Rottach-Egern                           ,   47.681932,   11.771391,747,Bayern                                  
+4301,Kreuznach,   49.850173,    7.871018,102,Rheinland-Pfalz                         
+4336,Saarbrücken-Ensheim                     ,   49.212803,    7.107712,320,Saarland                                
+4339,Saarbrücken-Sankt Johann                ,   49.223137,    7.016753,193,Saarland                                
+4347,Sachsa,   51.590937,   10.569098,292,Niedersachsen                           
+4350,Säckingen,   47.561928,    7.939928,339,Baden-Württemberg                       
+4364,Salzgitter-Ringelheim                   ,   52.035526,   10.305442,138,Niedersachsen                           
+4371,Salzuflen,   52.104207,    8.752053,        134.6,Nordrhein-Westfalen                     
+4377,Sandberg                                ,   50.351779,   10.003374,        517.5,Bayern                                  
+4386,Sankt Blasien                           ,   47.761006,    8.124701,795,Baden-Württemberg                       
+4390,Sankt Märgen                            ,   48.009078,    8.096604,896,Baden-Württemberg                       
+4393,Sankt Peter-Ording                      ,   54.327907,    8.603056,          4.9,Schleswig-Holstein                      
+4419,Schallstadt-Mengen                      ,    47.95565,    7.713307,212,Baden-Württemberg                       
+4466,Schleswig                               ,   54.527539,    9.548666,         42.7,Schleswig-Holstein                      
+4477,Schluchsee                              ,     47.8208,    8.185992,993,Baden-Württemberg                       
+4490,Schmelz-Hüttersdorf                     ,   49.414918,    6.836007,223,Saarland                                
+4508,Schneifelforsthaus                      ,   50.296848,    6.419387,649,Rheinland-Pfalz                         
+4517,Schömberg,   48.785891,    8.645121,635,Baden-Württemberg                       
+4557,Schopfheim-Eichen                       ,   47.646351,    7.843961,399,Baden-Württemberg                       
+4560,Schotten                                ,   50.492508,    9.122558,265,Hessen                                  
+4581,Schwäbisch Gmünd-Strassdorf             ,   48.776796,    9.802456,415,Baden-Württemberg                       
+4592,Schwandorf                              ,   49.327835,   12.087053,356,Bayern                                  
+4597,Schwangau-Horn                          ,   47.576937,    10.71814,792,Bayern                                  
+4605,Schwarzburg                             ,    50.64406,   11.193618,277,Thüringen                               
+4621,Schweinfurt-Gartenstadt                 ,   50.057452,   10.215981,240,Bayern                                  
+4625,Schwerin                                ,   53.642425,   11.387095,59,Mecklenburg-Vorpommern                  
+4651,Seesen                                  ,   51.903973,   10.188523,186,Niedersachsen                           
+4664,Selb/Oberfranken-Wildenau               ,   50.196948,   12.172692,611,Bayern                                  
+4692,Siegen (Kläranlage)                     ,   50.853381,    7.996614,229,Nordrhein-Westfalen                     
+4703,Sigmaringen-Laiz                        ,   48.071864,    9.194326,        580.5,Baden-Württemberg                       
+4709,Simmern-Wahlbach                        ,    49.99959,     7.59812,445,Rheinland-Pfalz                         
+4741,Solingen-Hohenscheid                    ,    51.14004,    7.092982,152,Nordrhein-Westfalen                     
+4745,Soltau                                  ,   52.960408,    9.793049,         75.4,Niedersachsen                           
+4748,Sondershausen                           ,   51.352007,   10.905861,221,Thüringen                               
+4752,Sonneberg-Neufang                       ,   50.374621,   11.182835,626,Thüringen                               
+4763,Sontra                                  ,   51.060686,    9.926618,265,Hessen                                  
+4818,Stammbach-Querenbach                    ,   50.153146,   11.740168,597,Bayern                                  
+4887,Stötten                                 ,   48.665587,    9.864791,        733.8,Baden-Württemberg                       
+4928,Stuttgart (Schnarrenberg)               ,   48.828085,    9.200028,        314.3,Baden-Württemberg                       
+4931,Stuttgart-Echterdingen                  ,   48.688265,    9.223548,371,Baden-Württemberg                       
+5009,Teterow                                 ,   53.761054,   12.557389,33,Mecklenburg-Vorpommern                  
+5014,Worpswede-Hüttenbusch                   ,   53.275827,    8.985687,7,Niedersachsen                           
+5017,Teuschnitz                              ,   50.400246,    11.38883,633,Bayern                                  
+5047,Titisee-Neustadt-Langenordnach          ,   47.939386,     8.19329,870,Baden-Württemberg                       
+5049,Titisee-Neustadt-Titisee                ,    47.89909,    8.145997,846,Baden-Württemberg                       
+5064,Tönisvorst                              ,   51.289722,    6.443651,37,Nordrhein-Westfalen                     
+5068,Torgau                                  ,     51.5833,13,80,Sachsen                                 
+5078,Travemünde                              ,   53.961947,   10.889158,          2.3,Schleswig-Holstein                      
+5094,Triberg                                 ,   48.131564,    8.228284,683,Baden-Württemberg                       
+5099,Trier-Zewen                             ,   49.732632,    6.613147,        131.5,Rheinland-Pfalz                         
+5100,Trier-Petrisberg                        ,   49.747883,    6.658296,265,Rheinland-Pfalz                         
+5111,Trostberg                               ,   48.031106,   12.539575,560,Bayern                                  
+5138,Überlingen/Bodensee                     ,   47.771308,    9.156156,446,Baden-Württemberg                       
+5142,Ueckermünde                             ,   53.744455,   14.069809,          1.2,Mecklenburg-Vorpommern                  
+5146,Uelzen                                  ,   52.941435,   10.528857,50,Niedersachsen                           
+5149,Gollhofen                               ,   49.574055,   10.191544,306,Bayern                                  
+5155,Ulm                                     ,   48.383656,    9.952422,        566.8,Baden-Württemberg                       
+5165,Unterlüß                                ,   52.849932,   10.289833,95,Niedersachsen                           
+5229,Villingen-Schwenningen                  ,   48.045325,    8.460769,719,Baden-Württemberg                       
+5250,Vogtsburg-Oberrotweil                   ,   48.090768,    7.635268,223,Baden-Württemberg                       
+5296,Waldeck                                 ,   51.207015,     9.06584,376,Hessen                                  
+5300,Waldems-Reinborn                        ,   50.259603,    8.360676,380,Hessen                                  
+5320,Waldshut                                ,   47.617223,    8.238786,330,Baden-Württemberg                       
+5335,Waltershausen                           ,   50.896285,    10.54834,352,Thüringen                               
+5344,Wangerooge                              ,   53.786537,    7.909559,2,Niedersachsen                           
+5349,Waren (Müritz)                          ,   53.519622,   12.665404,         72.6,Mecklenburg-Vorpommern                  
+5361,Wartenberg-Angersbach                   ,   50.627083,    9.441989,270,Hessen                                  
+5369,Wasserburg                              ,   48.057192,   12.220222,443,Bayern                                  
+5371,Wasserkuppe                             ,   50.497277,    9.942739,921,Hessen                                  
+5397,Weiden                                  ,   49.666221,   12.184448,        439.6,Bayern                                  
+5404,Weihenstephan-Dürnast                   ,   48.402404,   11.694552,        477.1,Bayern                                  
+5410,Weilburg (Kläranlage)                   ,   50.473156,    8.258845,150,Hessen                                  
+5419,Weimar                                  ,   50.975084,   11.307642,264,Thüringen                               
+5424,Weimar-Schöndorf                        ,    51.01765,   11.354409,328,Thüringen                               
+5433,Weiskirchen/Saar                        ,   49.553365,    6.811951,380,Saarland                                
+5434,Weismain                                ,   50.085754,   11.236431,317,Bayern                                  
+5440,Weißenburg-Emetzheim                    ,    49.01153,   10.930837,        439.3,Bayern                                  
+5467,Wendelstein                             ,   47.703531,   12.011857,1832,Bayern                                  
+5488,Mühlhausen,   49.962162,   10.048207,216,Bayern                                  
+5490,Wernigerode                             ,    51.84544,   10.768627,        233.3,Sachsen-Anhalt                          
+5498,Wertheim-Eichel                         ,   49.766682,    9.542783,140,Baden-Württemberg                       
+5516,Fehmarn                                 ,   54.528292,   11.060556,          3.2,Schleswig-Holstein                      
+5540,Wiesbaden (Süd)                         ,    50.06516,     8.25971,132,Hessen                                  
+5543,Wiesbaden-Dotzheim                      ,   50.086341,    8.187179,235,Hessen                                  
+5559,Wildbad,   48.784843,    8.576383,383,Baden-Württemberg                       
+5560,Wildbad,   48.750094,    8.536537,740,Baden-Württemberg                       
+5575,Wilhelmshaven                           ,   53.590139,    8.105969,1,Niedersachsen                           
+5582,Willingen/Upland                        ,   51.294004,    8.602609,580,Hessen                                  
+5610,Winterberg                              ,   51.187225,    8.507874,733,Nordrhein-Westfalen                     
+5629,Wittenberg                              ,   51.889124,   12.644598,        104.5,Sachsen-Anhalt                          
+5644,Witzenhausen                            ,   51.349302,    9.843821,133,Hessen                                  
+5654,Wörnitz-Bottenweiler                    ,   49.217848,   10.229589,464,Bayern                                  
+5664,Wolfach                                 ,   48.295324,    8.239068,296,Baden-Württemberg                       
+5692,Worms                                   ,   49.605078,    8.365906,88,Rheinland-Pfalz                         
+5705,Würzburg                                ,   49.770378,    9.957627,268,Bayern                                  
+5717,Wuppertal-Buchenhofen                   ,   51.225598,    7.105176,134,Nordrhein-Westfalen                     
+5731,Wutöschingen-Ofteringen                 ,   47.678267,    8.380132,        394.5,Baden-Württemberg                       
+5732,Wrixum/Föhr                             ,   54.692781,    8.527128,8,Schleswig-Holstein                      
+5745,Zehdenick                               ,   52.966344,   13.326752,51,Brandenburg                             
+5750,Zeitz                                   ,   51.031411,    12.14949,264,Sachsen-Anhalt                          
+5792,Zugspitze                               ,   47.421037,   10.984761,       2964.5,Bayern                                  
+5802,Zwieselberg                             ,   49.000693,   13.213664,615,Bayern                                  
+5825,Berge                                   ,   52.619829,   12.786684,40,Brandenburg                             
+5890,Kohlgrub,   47.677728,   11.047292,850,Bayern                                  
+5906,Mannheim                                ,   49.506251,    8.558439,98,Baden-Württemberg                       
+5912,Malsfeld                                ,   51.098847,    9.538035,169,Hessen                                  
+5920,Neuwied                                 ,   50.448498,     7.42749,91,Rheinland-Pfalz                         
+5941,Reit im Winkl                           ,   47.675415,   12.469775,        685.5,Bayern                                  
+6159,Dörpen                                  ,   52.954182,    7.319582,8,Niedersachsen                           
+7135,Aulendorf-Haslach                       ,   47.965473,    9.680409,565,Baden-Württemberg                       
+14311,Hersdorf-Weißenseifen                   ,   50.149979,    6.552789,530,Rheinland-Pfalz                         
+19087,Freyung vorm Wald                       ,   48.804879,   13.552775,645,Bayern                                  

@@ -1,0 +1,108 @@
+version: 2
+
+models:
+  - name: icedays_stations_6190
+    description: >
+      List of stations, which did a measures for 1961-1990 years.
+  - name: icedays_stations_7100
+    description: >
+      List of stations, which did a measures for 1971-2000 years.
+  - name: icedays_stations_8110
+    description: >
+      List of stations, which did a measures for 1981-2010 years.
+  - name: icedays_stations_9120
+    description: >
+      List of stations, which did a measures for 1991-2020 years.
+  - name: frostdays_stations_6190
+    description: >
+      List of stations, which did a measures for 1961-1990 years.
+  - name: frostdays_stations_7100
+    description: >
+      List of stations, which did a measures for 1971-2000 years.
+  - name: frostdays_stations_8110
+    description: >
+      List of stations, which did a measures for 1981-2010 years.
+  - name: frostdays_stations_9120
+    description: >
+      List of stations, which did a measures for 1991-2020 years.
+  - name: hotdays_stations_6190
+    description: >
+      List of stations, which did a measures for 1961-1990 years.
+  - name: hotdays_stations_7100
+    description: >
+      List of stations, which did a measures for 1971-2000 years.
+  - name: hotdays_stations_8110
+    description: >
+      List of stations, which did a measures for 1981-2010 years.
+  - name: hotdays_stations_9120
+    description: >
+      List of stations, which did a measures for 1991-2020 years.
+  - name: precipitation_stations_6190
+    description: >
+      List of stations, which did a measures for 1961-1990 years.
+  - name: precipitation_stations_7100
+    description: >
+      List of stations, which did a measures for 1971-2000 years.
+  - name: precipitation_stations_8110
+    description: >
+      List of stations, which did a measures for 1981-2010 years.
+  - name: precipitation_stations_9120
+    description: >
+      List of stations, which did a measures for 1991-2020 years.
+  - name: summerdays_stations_6190
+    description: >
+      List of stations, which did a measures for 1961-1990 years.
+  - name: summerdays_stations_7100
+    description: >
+      List of stations, which did a measures for 1971-2000 years.
+  - name: summerdays_stations_8110
+    description: >
+      List of stations, which did a measures for 1981-2010 years.
+  - name: summerdays_stations_9120
+    description: >
+      List of stations, which did a measures for 1991-2020 years.
+  - name: sunshineduration_stations_6190
+    description: >
+      List of stations, which did a measures for 1961-1990 years.
+  - name: sunshineduration_stations_7100
+    description: >
+      List of stations, which did a measures for 1971-2000 years.
+  - name: sunshineduration_stations_8110
+    description: >
+      List of stations, which did a measures for 1981-2010 years.
+  - name: sunshineduration_stations_9120
+    description: >
+      List of stations, which did a measures for 1991-2020 years.
+  - name: temperature_stations_6190
+    description: >
+      List of stations, which did a measures for 1961-1990 years.
+  - name: temperature_stations_7100
+    description: >
+      List of stations, which did a measures for 1971-2000 years.
+  - name: temperature_stations_8110
+    description: >
+      List of stations, which did a measures for 1981-2010 years.
+  - name: temperature_stations_9120
+    description: >
+      List of stations, which did a measures for 1991-2020 years.
+  - name: ice_days
+    description: Information about ice days in Germany with the information
+      about meausurestations.
+  - name: frost_days
+    description: Information about frost days in Germany with the information
+      about meausurestations.
+  - name: hot_days
+    description: Information about hot days in Germany with the information
+      about meausurestations.
+  - name: precipitation
+    description: Information about a precipitation in Germany with the information
+      about meausurestations.
+  - name: summer_days
+    description: Information about summer days in Germany with the information
+      about meausurestations.
+  - name: sunschine_duration
+    description: Information about a duration of sunschine in Germany with the information
+      about meausurestations.
+  - name: temperature
+    description: Information about a temperature in Germany with the information
+      about meausurestations.
