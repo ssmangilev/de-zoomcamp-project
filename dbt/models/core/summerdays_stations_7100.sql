@@ -3,4 +3,4 @@
 
 select 
     *
-from {{ ref('sommertage_stationsliste_7100.csv') }}
+from {{ ref('sommertage_stationsliste_7100') }}

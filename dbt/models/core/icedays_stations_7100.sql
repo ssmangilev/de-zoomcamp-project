@@ -3,4 +3,4 @@
 
 select 
     *
-from {{ ref('eistage_stationsliste_7100.csv.csv') }}
+from {{ ref('eistage_stationsliste_7100') }}

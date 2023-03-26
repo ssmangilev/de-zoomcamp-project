@@ -3,4 +3,4 @@
 
 select 
     *
-from {{ ref('temperatur_stationsliste_7100.csv') }}
+from {{ ref('temperatur_stationsliste_7100') }}

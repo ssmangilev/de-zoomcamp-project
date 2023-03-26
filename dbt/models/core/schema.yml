@@ -61,16 +61,16 @@ models:
   - name: summerdays_stations_9120
     description: >
       List of stations, which did a measures for 1991-2020 years.
-  - name: sunschineduration_stations_6190
+  - name: sunshineduration_stations_6190
     description: >
       List of stations, which did a measures for 1961-1990 years.
-  - name: sunschineduration_stations_7100
+  - name: sunshineduration_stations_7100
     description: >
       List of stations, which did a measures for 1971-2000 years.
-  - name: sunschineduration_stations_8110
+  - name: sunshineduration_stations_8110
     description: >
       List of stations, which did a measures for 1981-2010 years.
-  - name: sunschineduration_stations_9120
+  - name: sunshineduration_stations_9120
     description: >
       List of stations, which did a measures for 1991-2020 years.
   - name: temperature_stations_6190

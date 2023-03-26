@@ -3,4 +3,4 @@
 
 select 
     *
-from {{ ref('sonnenscheindauer_stationsliste_7100.csv') }}
+from {{ ref('sonnenscheindauer_stationsliste_7100') }}

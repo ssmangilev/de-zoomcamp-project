@@ -3,4 +3,4 @@
 
 select 
     *
-from {{ ref('niederschlag_stationsliste_9120.csv') }}
+from {{ ref('niederschlag_stationsliste_9120') }}

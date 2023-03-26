@@ -3,7 +3,7 @@
 with tabledata as 
 (
   select *
-  from {{ source('historical_temperatures_dataset_germany','Eistage') }}
+  from {{ source('bigquery','Heissetage') }}
 )
 select
     {{ dbt_utils.surrogate_key(['Stations_id', 'Bezugszeitraum']) }} as id,
