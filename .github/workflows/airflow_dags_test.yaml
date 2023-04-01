@@ -1,4 +1,4 @@
-  name: Change of docker-compose.yml
+  name: Airflow DAGS tests
   on:
     push:
       branches: [ main ]
@@ -14,7 +14,7 @@
           uses: cloudposse/github-action-docker-compose-test-run@main
           with:
             registry: docker.pkg.github.com
-            workdir: ./build/
+            workdir: ./build
             file: docker-compose.yaml
-            service: airflow-webserver
-            command: echo 1
+            service: airflow-worker
+            command: pytest ./

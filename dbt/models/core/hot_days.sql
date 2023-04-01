@@ -24,8 +24,13 @@ stations_unioned as (
     union all
     select * from stations_9120
 )
+<<<<<<< HEAD
 select stg_hotdays.*, stations_unioned.Stationsname, stations_unioned.Breite,
 stations_unioned.Stationshoehe from stg_hotdays
+=======
+select stg_hotdays.*, stations_unioned.Stationsname, stations_unioned.Breite, stations_unioned.Laenge,
+stations_unioned.Stationshoehe, stations_unioned.Bundesland  from stg_hotdays
+>>>>>>> 6e13e65 (Fix dbt models)
 inner join stations_unioned
 on stg_hotdays.stations_id = stations_unioned.Stations_id and
     stg_hotdays.period_of_time = stations_unioned.period_of_time

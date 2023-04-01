@@ -2,6 +2,7 @@ apache-airflow-providers-google
 apache-airflow-providers-apache-spark
 pyarrow
 pyspark
+pytest
 requests
 pandas
 lxml
