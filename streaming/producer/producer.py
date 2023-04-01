@@ -1,16 +1,14 @@
-from io import BytesIO
-import pandas as pd
-import zipfile
-import csv
-import requests
-import os
 import json
-from kafka import KafkaProducer
-
-import ftplib
-import httplib2
+import os
+import zipfile
+from io import BytesIO
 from urllib.request import urlopen
+
+import httplib2
+import pandas as pd
 from bs4 import BeautifulSoup, SoupStrainer
+
+from kafka import KafkaProducer
 
 URL_TO_DOWNLOAD = "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/1_minute/precipitation/now/" # NOQA
 
@@ -34,7 +32,10 @@ for link in BeautifulSoup(response, parse_only=SoupStrainer('a')):
                         # for index, row in df.T.items():
                         # send message to kafka
                         for index, row in df.T.items():
+                            msg_row = f"{row[0]}, {row[1]}, {row[2]}, {row[3]}, {row[4]}"  # NOQA: E501
                             msg = producer.send(
-                                'temperature_topic', row.to_json())
+                                'temperature_topic',
+                                key=row[0],
+                                value=msg_row)
                             producer.flush()
                         os.remove(file)
