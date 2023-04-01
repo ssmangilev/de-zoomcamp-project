@@ -7,10 +7,13 @@
 A Problem, that I chose is straightforward but is also very important. It is climate change. In the example of Germany, I would like to show, that this problem is real. I used a dataset from https://www.dwd.de/EN/ourservices/cdc/cdc_ueberblick-klimadaten_en.html, thanks for this opportunity. I chose to use some pre-aggregated historical data from 1961 to nowadays.  Also as a stream part of my project, I used some real-time data about precipitation.
 
 ## Dashboard
-![Dashboard_picture]((https://ibb.co/LCQfzWM))
+![image](https://user-images.githubusercontent.com/44844137/229288868-3d8dd64f-8fdd-44af-9594-1cd0e1cad89f.png)
 
 
 # Technologies
+
+![image](https://user-images.githubusercontent.com/44844137/229288833-1fdd9c35-4087-4390-9fc3-8762f4030a86.png)
+
 
   ## Infrastructure
     - Terraform - for building cloud part of the project in my case in Google Cloud Platform
