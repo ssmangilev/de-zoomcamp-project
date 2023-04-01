@@ -9,12 +9,12 @@
       steps:
         - name: Checkout
           uses: actions/checkout@v3
-  
+
         - name: Tests
           uses: cloudposse/github-action-docker-compose-test-run@main
           with:
             registry: docker.pkg.github.com
-            workdir: ./build
+            workdir: ./dags
             file: docker-compose.yaml
             service: airflow-worker
             command: pytest ./
