@@ -24,7 +24,7 @@ stations_unioned as (
     union all
     select * from stations_9120
 )
-select stg_icedays.*, stations_unioned.Stationsname, stations_unioned.Breite,
+select stg_icedays.*, stations_unioned.Stationsname, stations_unioned.Breite, stations_unioned.Laenge,
 stations_unioned.Stationshoehe, stations_unioned.Bundesland from stg_icedays
 inner join stations_unioned
 on stg_icedays.stations_id = stations_unioned.Stations_id and
