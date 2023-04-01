@@ -14,7 +14,7 @@
           uses: cloudposse/github-action-docker-compose-test-run@main
           with:
             registry: docker.pkg.github.com
-            workdir: ./dags
+            workdir: ./build
             file: docker-compose.yaml
             service: airflow-worker
             command: pytest ./
