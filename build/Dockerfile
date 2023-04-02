@@ -12,6 +12,7 @@ RUN apt-get install wget
 COPY requirements.txt .
 USER airflow
 RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install pytest
 
 # Ref: https://airflow.apache.org/docs/docker-stack/recipes.html
 USER root
