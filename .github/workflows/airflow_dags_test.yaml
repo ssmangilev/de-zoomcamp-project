@@ -23,19 +23,20 @@ jobs:
       - name: docker-compose up
         env:
           COMPOSE_INTERACTIVE_NO_CLI: 1
+        working-directory: ./build
         run: docker-compose up -d
       - name: Check running containers
         working-directory: ./build
         run: docker-compose ps -a
       - name: Check logs
         working-directory: ./build
-        run: docker-compose logs app
+        run: docker-compose logs airflow-worker
       - name: Test with pytest
         env:
           COMPOSE_INTERACTIVE_NO_CLI: 1
         working-directory: ./build
-        run: docker-compose exec build_airflow-worker_1 pytest
+        run: docker-compose exec -u root -T airflow-worker pytest /opt/airflow/dags/
       - name: Stop containers
         if: always()
         working-directory: ./build
-        run: docker-compose -f "docker-compose.yml" down
+        run: docker-compose down

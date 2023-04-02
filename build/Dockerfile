@@ -12,14 +12,13 @@ RUN apt-get install wget
 COPY requirements.txt .
 USER airflow
 RUN pip install --no-cache-dir -r requirements.txt
-RUN pip install pytest
 
 # Ref: https://airflow.apache.org/docs/docker-stack/recipes.html
 USER root
 SHELL ["/bin/bash", "-o", "pipefail", "-e", "-u", "-x", "-c"]
 
 USER root
-RUN chmod 777 $AIRFLOW_HOME
+RUN chmod 777 -R $AIRFLOW_HOME
 
 ARG CLOUD_SDK_VERSION=414.0.0
 ENV GCLOUD_HOME=/home/google-cloud-sdk
