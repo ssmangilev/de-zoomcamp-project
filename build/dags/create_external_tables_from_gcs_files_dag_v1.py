@@ -60,12 +60,12 @@ def create_tables_in_bigquery_from_gcs_v1():
     path = f"data/historical_temperatures/{prefix}*"
     tablename = f"{PROJECT_ID}.{dataset_name}.{prefix}"
     create_in_bigquery = GCSToBigQueryOperator(
-            task_id="create_table_in_bigquery",
-            bucket=BUCKET_ID,
-            source_objects=[path],
-            destination_project_dataset_table=tablename,
-            source_format="PARQUET",
-            autodetect=True,
+        task_id="create_table_in_bigquery",
+        bucket=BUCKET_ID,
+        source_objects=[path],
+        destination_project_dataset_table=tablename,
+        source_format="PARQUET",
+        autodetect=True,
     )
 
     prefix >> dataset_name >> create_in_bigquery
