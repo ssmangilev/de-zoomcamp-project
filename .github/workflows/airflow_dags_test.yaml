@@ -9,7 +9,7 @@ on:
     - main
 
 jobs:
-  docker:
+  run_dags_tests:
     timeout-minutes: 10
     runs-on: ubuntu-latest
 
@@ -18,19 +18,24 @@ jobs:
       - name: docker-compose build
         env:
           COMPOSE_INTERACTIVE_NO_CLI: 1
+        working-directory: ./build
         run: docker-compose build
       - name: docker-compose up
         env:
           COMPOSE_INTERACTIVE_NO_CLI: 1
         run: docker-compose up -d
       - name: Check running containers
+        working-directory: ./build
         run: docker-compose ps -a
       - name: Check logs
+        working-directory: ./build
         run: docker-compose logs app
       - name: Test with pytest
         env:
           COMPOSE_INTERACTIVE_NO_CLI: 1
+        working-directory: ./build
         run: docker-compose exec build_airflow-worker_1 pytest
       - name: Stop containers
         if: always()
+        working-directory: ./build
         run: docker-compose -f "docker-compose.yml" down
