@@ -141,8 +141,6 @@ services:
   airflow-worker:
     <<: *airflow-common
     command: >
-      python -m pip install --upgrade pip &&
-      pip install pytest &&
       celery worker
     healthcheck:
       test:

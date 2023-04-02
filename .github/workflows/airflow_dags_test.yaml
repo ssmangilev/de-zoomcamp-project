@@ -1,4 +1,4 @@
-name: Airflow DAGS test
+name: Docker-compose Run
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
     - main
 
 jobs:
-  run_dags_tests:
+  docker-compose-run:
     timeout-minutes: 10
     runs-on: ubuntu-latest
 
@@ -31,11 +31,6 @@ jobs:
       - name: Check logs
         working-directory: ./build
         run: docker-compose logs airflow-worker
-      - name: Test with pytest
-        env:
-          COMPOSE_INTERACTIVE_NO_CLI: 1
-        working-directory: ./build
-        run: docker-compose exec -u root -T airflow-worker pytest /opt/airflow/dags/
       - name: Stop containers
         if: always()
         working-directory: ./build

@@ -19,6 +19,9 @@ SHELL ["/bin/bash", "-o", "pipefail", "-e", "-u", "-x", "-c"]
 
 USER root
 RUN chmod 777 -R $AIRFLOW_HOME
+RUN chmod 777 -R $AIRFLOW_HOME/logs/
+RUN chown -R $AIRFLOW_UID $AIRFLOW_HOME
+RUN chown -R $AIRFLOW_UID $AIRFLOW_HOME/logs/
 
 ARG CLOUD_SDK_VERSION=414.0.0
 ENV GCLOUD_HOME=/home/google-cloud-sdk
