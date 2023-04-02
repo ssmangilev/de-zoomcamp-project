@@ -55,5 +55,4 @@ jobs:
     - name: Test with Pytest
       run: |
         pip install pytest
-        cd tests || exit
         pytest ./ -v
